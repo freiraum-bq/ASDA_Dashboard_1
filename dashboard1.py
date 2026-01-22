@@ -17,8 +17,8 @@ def _():
 @app.cell
 def _(pd):
     # Load data - fix later to relative path
-    red = pd.read_csv('/Users/ja_nnik/2025|26_WiSe/ASDA/12_supervised_classification/data/winequality-red.csv', sep=';')
-    white = pd.read_csv('/Users/ja_nnik/2025|26_WiSe/ASDA/12_supervised_classification/data/winequality-white.csv', sep=';')
+    red = pd.read_csv('data/winequality-red.csv', sep=';')
+    white = pd.read_csv('data/winequality-white.csv', sep=';')
     return red, white
 
 
