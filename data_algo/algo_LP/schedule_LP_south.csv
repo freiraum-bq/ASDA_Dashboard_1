@@ -1,0 +1,199 @@
+trip_id,route_short_name,trip_headsign,stop_sequence,stop_name,minutes_to_stop,arrival_time,stop_lat,stop_lon
+001,001,"Bleckede, Schulzentrum",0,"Barskamp, Hohe Luft",0.0,04:16:00,53.2416332477978,10.777085511992773
+001,001,"Bleckede, Schulzentrum",1,"Nahrendorf, Tangsehler Weg",13.4,04:29:24,53.17492067028414,10.818318801375577
+001,001,"Bleckede, Schulzentrum",2,"Kovahl, Alter Rundling",4.4,04:33:48,53.18293426801139,10.85906255548105
+001,001,"Bleckede, Schulzentrum",3,"Ventschau, Am Bach",4.3,04:38:06,53.20572054184056,10.865154891376273
+001,001,"Bleckede, Schulzentrum",4,"Quarstedt, L 231",2.1,04:40:12,53.21235271438874,10.878030036041709
+001,001,"Bleckede, Schulzentrum",5,"Neu Darchau, Süd",2.1,04:42:18,53.224804959433506,10.883299030383732
+001,001,"Bleckede, Schulzentrum",6,"Katemin, Kurzer Weg",1.1,04:43:24,53.22917605200968,10.879653635063386
+001,001,"Bleckede, Schulzentrum",7,"Reeßeln, Abzweigung",2.2,04:45:36,53.23542992902357,10.86114530309026
+001,001,"Bleckede, Schulzentrum",8,"Katemin, Bäckerweg",1.5,04:47:06,53.23225057606424,10.874862956009832
+001,001,"Bleckede, Schulzentrum",9,"Köhlingen, Abzweig Köhlingen",5.3,04:52:24,53.21342660563195,10.839179277770523
+001,001,"Bleckede, Schulzentrum",10,"Tosterglope, Neuhauser Straße",1.8,04:54:12,53.209612401324215,10.822991908826413
+001,001,"Bleckede, Schulzentrum",11,"Tosterglope, Siedlung",0.8,04:55:00,53.20699292604683,10.816725051767198
+001,001,"Bleckede, Schulzentrum",12,"Tosterglope, Gut Horndorf",3.0,04:58:00,53.19700450008457,10.795105217536259
+001,001,"Bleckede, Schulzentrum",13,"Dahlenburg, Abzweigung Dumstorf",11.2,05:09:12,53.18927642669189,10.698056022142783
+001,001,"Bleckede, Schulzentrum",14,"Lemgrabe, Am Hasenberg",3.4,05:12:36,53.17100169131662,10.704123886926874
+001,001,"Bleckede, Schulzentrum",15,Bf. Dahlenburg,0.2,05:12:48,53.16996409188926,10.705281017935464
+001,001,"Bleckede, Schulzentrum",16,"Seedorf bei Boitze, Abzweigung",0.7,05:13:30,53.166674418039825,10.708908539415066
+001,001,"Bleckede, Schulzentrum",17,"Seedorf bei Boitze, Ort",1.0,05:14:30,53.16437103531835,10.717411005912778
+001,001,"Bleckede, Schulzentrum",18,Vindorf,2.2,05:16:42,53.158173960781326,10.721580703733723
+001,001,"Bleckede, Schulzentrum",19,"Neetzendorf, Ort",4.4,05:21:06,53.161320680956926,10.763297568292403
+001,001,"Bleckede, Schulzentrum",20,Neetzendorf (Nord),0.5,05:21:36,53.16321714886759,10.766691161733204
+001,001,"Bleckede, Schulzentrum",21,"Neetzendorf, Mühle",1.1,05:22:42,53.169680425875235,10.765736060911028
+001,001,"Bleckede, Schulzentrum",22,"Süschendorf, Kreuzung",3.3,05:26:00,53.17110129826633,10.780095656442171
+001,001,"Bleckede, Schulzentrum",23,"Oldendorf (Göhrde), Alte Poststraße",3.8,05:29:48,53.158803435337845,10.810557190862806
+001,001,"Bleckede, Schulzentrum",24,"Walmsburg, Kateminer Straße",15.3,05:45:06,53.23908603932158,10.843671006776443
+001,001,"Bleckede, Schulzentrum",25,"Alt Garge, Waldbad",5.9,05:51:00,53.25807476279319,10.804377176109105
+001,001,"Bleckede, Schulzentrum",26,"Alt Garge, Hauptstraße",1.5,05:52:30,53.265021033426805,10.802248000630904
+001,001,"Bleckede, Schulzentrum",27,"Alt Garge, Turnhalle",0.4,05:52:54,53.265332278700555,10.798085372849066
+001,001,"Bleckede, Schulzentrum",28,"Alt Garge, Bahnhof",0.5,05:53:24,53.26613612600809,10.793782366514698
+001,001,"Bleckede, Schulzentrum",29,"Bleckede, Brennbusch",4.9,05:58:18,53.28172391303896,10.755020788905533
+001,001,"Bleckede, Schulzentrum",30,"Bleckede, Elbweg",0.5,05:58:48,53.2843180414579,10.751835993803104
+001,001,"Bleckede, Schulzentrum",31,"Bleckede, Robert-Koch-Straße",2.4,06:01:12,53.2798394733857,10.735377756875696
+001,001,"Bleckede, Schulzentrum",32,"Bleckede, Sandfeld",2.4,06:03:36,53.285401529867656,10.72213847827448
+001,001,"Bleckede, Schulzentrum",33,"Thomasburg, Im Winkel",16.9,06:20:30,53.233289547384175,10.656240736677331
+001,001,"Bleckede, Schulzentrum",34,"Bavendorf, Mitte/B 216",7.0,06:27:30,53.197257123693824,10.637854777295406
+001,001,"Bleckede, Schulzentrum",35,"Radenbeck, Linnenkamp",5.3,06:32:48,53.22149801807991,10.627760847584874
+001,001,"Bleckede, Schulzentrum",36,"Radenbeck, Im Siek",0.8,06:33:36,53.217861840174784,10.626409068210407
+001,001,"Bleckede, Schulzentrum",37,"Thomasburg, Radenbecker Weg",3.7,06:37:18,53.22962935901358,10.65389919540472
+001,001,"Bleckede, Schulzentrum",38,"Wiecheln, Abzweig K 26",2.7,06:40:00,53.22405934710722,10.676704745896199
+001,001,"Bleckede, Schulzentrum",39,"Breetze, Görgenweg",10.2,06:50:12,53.266952035983095,10.716862004385113
+001,001,"Bleckede, Schulzentrum",40,"Ellringen, Kettelberg",7.4,06:57:36,53.22619119584087,10.704046202369922
+001,001,"Bleckede, Schulzentrum",41,"Köstorf, Haus Nr. 6",5.1,07:02:42,53.22893701383024,10.753849286755134
+001,001,"Bleckede, Schulzentrum",42,Harmstorf bei Dahlem,2.9,07:05:36,53.21444060290017,10.75884301608655
+001,001,"Bleckede, Schulzentrum",43,"Bleckede, Abzweig Köstorf",3.5,07:09:06,53.2330797803944,10.756630393504375
+001,001,"Bleckede, Schulzentrum",44,"Dahlenburg, Fliederweg",9.9,07:19:00,53.1844230403339,10.732065997290754
+001,001,"Bleckede, Schulzentrum",45,"Dahlenburg, Markt",1.5,07:20:30,53.18696979143374,10.742123132711072
+001,001,"Bleckede, Schulzentrum",46,"Dahlenburg, Ehrenfriedhof",1.1,07:21:36,53.1887770657634,10.731746663245135
+001,001,"Bleckede, Schulzentrum",47,"Marienau, Drosselstraße 7",2.6,07:24:12,53.20166898110691,10.72711432781915
+001,001,"Bleckede, Schulzentrum",48,"Dahlenburg, Grundschule",3.2,07:27:24,53.18803028156687,10.741883277874901
+001,001,"Bleckede, Schulzentrum",49,"Nindorf bei Bleckede, L 222",13.7,07:41:06,53.26182812419796,10.742751993951906
+001,001,"Bleckede, Schulzentrum",50,"Bleckede, Waldfrieden",1.6,07:42:42,53.27166835321799,10.743711791977937
+001,001,"Bleckede, Schulzentrum",51,"Bleckede, Dahlenburger Straße",1.3,07:44:00,53.27905900230387,10.741211993633312
+001,001,"Bleckede, Schulzentrum",52,"Bleckede, Saatbau",1.0,07:45:00,53.28511004143899,10.740111000245383
+001,001,"Bleckede, Schulzentrum",53,"Bleckede, Auf dem Kamp",0.8,07:45:48,53.28907738393913,10.736553706002676
+001,001,"Bleckede, Schulzentrum",54,"Bleckede, Rathaus",0.7,07:46:30,53.290734381515286,10.731988750175107
+001,001,"Bleckede, Schulzentrum",55,"Bleckede, Bahnhof",0.6,07:47:06,53.291356443711464,10.727945653442458
+001,001,"Bleckede, Schulzentrum",56,"Bleckede, Töpferdamm",0.8,07:47:54,53.29386256401939,10.725027363216109
+001,001,"Bleckede, Schulzentrum",57,"Bleckede, Lüneburger Straße",1.4,07:49:18,53.288322489541514,10.728799818695268
+001,001,"Bleckede, Schulzentrum",58,"Bleckede, Schulzentrum",0.7,07:50:00,53.2850469374217,10.731456260160396
+002,002,"Bleckede, Schulzentrum",0,Bleckede (Fähre),0.0,07:47:36,53.297775764653935,10.734656472177333
+002,002,"Bleckede, Schulzentrum",1,"Bleckede, Rathaus",1.3,07:48:54,53.290734381515286,10.731988750175107
+002,002,"Bleckede, Schulzentrum",2,"Bleckede, Schulzentrum",1.1,07:50:00,53.2850469374217,10.731456260160396
+003,003,"Bleckede, Elbtalhaus",0,"Barskamp, Markt",0.0,06:21:12,53.24415646333284,10.78386747517726
+003,003,"Bleckede, Elbtalhaus",1,"Göddingen, Am Fischteich",2.5,06:23:42,53.25350403833043,10.764497002038954
+003,003,"Bleckede, Elbtalhaus",2,"Alt Garge, Bahnhof",4.3,06:28:00,53.26613612600809,10.793782366514698
+003,003,"Bleckede, Elbtalhaus",3,"Alt Garge, Hauptstraße",0.9,06:28:54,53.265021033426805,10.802248000630904
+003,003,"Bleckede, Elbtalhaus",4,"Alt Garge, Waldbad",1.5,06:30:24,53.25807476279319,10.804377176109105
+003,003,"Bleckede, Elbtalhaus",5,"Walmsburg, Bruchdorfer Straße",6.2,06:36:36,53.239024495063525,10.848634946421365
+003,003,"Bleckede, Elbtalhaus",6,"Reeßeln, Abzweigung",1.4,06:38:00,53.23542992902357,10.86114530309026
+003,003,"Bleckede, Elbtalhaus",7,"Katemin, Kurzer Weg",2.2,06:40:12,53.22917605200968,10.879653635063386
+003,003,"Bleckede, Elbtalhaus",8,"Neu Darchau, Post",0.8,06:41:00,53.229220891471876,10.88548782010235
+003,003,"Bleckede, Elbtalhaus",9,"Neu Darchau, Süd",0.8,06:41:48,53.224804959433506,10.883299030383732
+003,003,"Bleckede, Elbtalhaus",10,"Quarstedt, L 231",2.1,06:43:54,53.21235271438874,10.878030036041709
+003,003,"Bleckede, Elbtalhaus",11,"Ventschau, Am Bach",2.1,06:46:00,53.20572054184056,10.865154891376273
+003,003,"Bleckede, Elbtalhaus",12,"Ventschau, Ortsmitte",1.2,06:47:12,53.201130039348726,10.856264548139535
+003,003,"Bleckede, Elbtalhaus",13,"Ventschau, Am Dicken Busch",0.8,06:48:00,53.204558079763096,10.851530304565568
+003,003,"Bleckede, Elbtalhaus",14,"Tosterglope, Neuhauser Straße",3.7,06:51:42,53.209612401324215,10.822991908826413
+003,003,"Bleckede, Elbtalhaus",15,"Oldendorf (Göhrde), Alte Poststraße",9.0,07:00:42,53.158803435337845,10.810557190862806
+003,003,"Bleckede, Elbtalhaus",16,"Süschendorf, Kreuzung",3.8,07:04:30,53.17110129826633,10.780095656442171
+003,003,"Bleckede, Elbtalhaus",17,"Köstorf, Haus Nr. 6",11.9,07:16:24,53.22893701383024,10.753849286755134
+003,003,"Bleckede, Elbtalhaus",18,"Ellringen, Kettelberg",5.1,07:21:30,53.22619119584087,10.704046202369922
+003,003,"Bleckede, Elbtalhaus",19,"Bleckede, Abzweig Köstorf",5.8,07:27:18,53.2330797803944,10.756630393504375
+003,003,"Bleckede, Elbtalhaus",20,"Nindorf bei Bleckede, L 222",5.2,07:32:30,53.26182812419796,10.742751993951906
+003,003,"Bleckede, Elbtalhaus",21,"Göddingen, Wöppenberg",2.1,07:34:36,53.25671904092266,10.761018005669564
+003,003,"Bleckede, Elbtalhaus",22,"Bleckede, Brennbusch",8.6,07:43:12,53.28172391303896,10.755020788905533
+003,003,"Bleckede, Elbtalhaus",23,"Bleckede, Elbweg",0.5,07:43:42,53.2843180414579,10.751835993803104
+003,003,"Bleckede, Elbtalhaus",24,"Bleckede, Schiedenitzweg",2.0,07:45:42,53.28009829145347,10.74157784278926
+003,003,"Bleckede, Elbtalhaus",25,"Bleckede, Dahlenburger Straße",0.2,07:45:54,53.27905900230387,10.741211993633312
+003,003,"Bleckede, Elbtalhaus",26,"Bleckede, Lüneburger Straße",2.4,07:48:18,53.288322489541514,10.728799818695268
+003,003,"Bleckede, Elbtalhaus",27,"Bleckede, Bahnhof",0.9,07:49:12,53.291356443711464,10.727945653442458
+003,003,"Bleckede, Elbtalhaus",28,"Bleckede, Elbtalhaus",0.8,07:50:00,53.295135035330595,10.725144997006078
+004,004,"Bleckede, Schulzentrum",0,"Dahlenburg, Mittelfeld",0.0,07:32:42,53.191459385435024,10.7235240984447
+004,004,"Bleckede, Schulzentrum",1,"Riecklingen, Abzweigung",2.8,07:35:30,53.205870895670344,10.70991305399582
+004,004,"Bleckede, Schulzentrum",2,"Ellringen, Ellringer Neetzetal",3.1,07:38:36,53.22344979302783,10.7033299812524
+004,004,"Bleckede, Schulzentrum",3,"Bleckede, Schulzentrum",11.4,07:50:00,53.2850469374217,10.731456260160396
+005,005,"Bleckede, Töpferdamm",0,"Nahrendorf, Mücklingen",0.0,06:48:00,53.180415997689366,10.784191005351616
+005,005,"Bleckede, Töpferdamm",1,"Dahlenburg, Buendorf",3.6,06:51:36,53.18444235907768,10.751948586392185
+005,005,"Bleckede, Töpferdamm",2,"Dahlenburg, Schulzentrum",0.9,06:52:30,53.18378833760418,10.747696878100866
+005,005,"Bleckede, Töpferdamm",3,"Dahlenburg, Fliederweg",2.1,06:54:36,53.1844230403339,10.732065997290754
+005,005,"Bleckede, Töpferdamm",4,Harmstorf bei Dahlem,7.0,07:01:36,53.21444060290017,10.75884301608655
+005,005,"Bleckede, Töpferdamm",5,"Süschendorf, Kreuzung",9.6,07:11:12,53.17110129826633,10.780095656442171
+005,005,"Bleckede, Töpferdamm",6,"Köstorf, Haus Nr. 6",11.9,07:23:06,53.22893701383024,10.753849286755134
+005,005,"Bleckede, Töpferdamm",7,"Ellringen, Kettelberg",5.1,07:28:12,53.22619119584087,10.704046202369922
+005,005,"Bleckede, Töpferdamm",8,"Bleckede, Schulzentrum",11.0,07:39:12,53.2850469374217,10.731456260160396
+005,005,"Bleckede, Töpferdamm",9,"Breetze, Bokelstraße",4.5,07:43:42,53.264662598539836,10.70943394371064
+005,005,"Bleckede, Töpferdamm",10,"Breetze, Ziegelei",1.5,07:45:12,53.27076703377571,10.715347996707528
+005,005,"Bleckede, Töpferdamm",11,"Bleckede, Lüneburger Straße",3.4,07:48:36,53.288322489541514,10.728799818695268
+005,005,"Bleckede, Töpferdamm",12,"Bleckede, Töpferdamm",1.4,07:50:00,53.29386256401939,10.725027363216109
+006,006,"Bleckede, Töpferdamm",0,"Alt Garge, Turnhalle",0.0,07:39:18,53.265332278700555,10.798085372849066
+006,006,"Bleckede, Töpferdamm",1,"Alt Garge, Bahnhof",0.5,07:39:48,53.26613612600809,10.793782366514698
+006,006,"Bleckede, Töpferdamm",2,"Bleckede, Brennbusch",4.9,07:44:42,53.28172391303896,10.755020788905533
+006,006,"Bleckede, Töpferdamm",3,"Bleckede, Barskamper Weg",0.6,07:45:18,53.28213683874427,10.750471714003309
+006,006,"Bleckede, Töpferdamm",4,"Bleckede, Schulzentrum",2.7,07:48:00,53.2850469374217,10.731456260160396
+006,006,"Bleckede, Töpferdamm",5,"Bleckede, Töpferdamm",2.0,07:50:00,53.29386256401939,10.725027363216109
+007,007,"Bleckede, Elbtalhaus",0,"Walmsburg, Bruchdorfer Straße",0.0,07:30:18,53.239024495063525,10.848634946421365
+007,007,"Bleckede, Elbtalhaus",1,"Alt Garge, Waldbad",6.2,07:36:30,53.25807476279319,10.804377176109105
+007,007,"Bleckede, Elbtalhaus",2,"Alt Garge, Hauptstraße",1.5,07:38:00,53.265021033426805,10.802248000630904
+007,007,"Bleckede, Elbtalhaus",3,"Alt Garge, Bahnhof",0.9,07:38:54,53.26613612600809,10.793782366514698
+007,007,"Bleckede, Elbtalhaus",4,"Bleckede, Brennbusch",4.9,07:43:48,53.28172391303896,10.755020788905533
+007,007,"Bleckede, Elbtalhaus",5,"Bleckede, Elbweg",0.5,07:44:18,53.2843180414579,10.751835993803104
+007,007,"Bleckede, Elbtalhaus",6,"Bleckede, Robert-Koch-Straße",2.4,07:46:42,53.2798394733857,10.735377756875696
+007,007,"Bleckede, Elbtalhaus",7,"Bleckede, Schulzentrum",1.1,07:47:48,53.2850469374217,10.731456260160396
+007,007,"Bleckede, Elbtalhaus",8,"Bleckede, Elbtalhaus",2.2,07:50:00,53.295135035330595,10.725144997006078
+008,008,"Bleckede, Schulzentrum",0,"Göddingen, Wöppenberg",0.0,07:39:42,53.25671904092266,10.761018005669564
+008,008,"Bleckede, Schulzentrum",1,"Nindorf bei Bleckede, L 222",2.1,07:41:48,53.26182812419796,10.742751993951906
+008,008,"Bleckede, Schulzentrum",2,"Breetze, Görgenweg",2.8,07:44:36,53.266952035983095,10.716862004385113
+008,008,"Bleckede, Schulzentrum",3,"Breetze, Bokelstraße",0.9,07:45:30,53.264662598539836,10.70943394371064
+008,008,"Bleckede, Schulzentrum",4,"Bleckede, Schulzentrum",4.5,07:50:00,53.2850469374217,10.731456260160396
+009,009,"Bleckede, Schulzentrum",0,"Barskamp, Hohe Luft",0.0,07:35:06,53.2416332477978,10.777085511992773
+009,009,"Bleckede, Schulzentrum",1,"Barskamp, Markt",1.1,07:36:12,53.24415646333284,10.78386747517726
+009,009,"Bleckede, Schulzentrum",2,"Alt Garge, Hauptstraße",4.7,07:40:54,53.265021033426805,10.802248000630904
+009,009,"Bleckede, Schulzentrum",3,"Alt Garge, Bahnhof",0.9,07:41:48,53.26613612600809,10.793782366514698
+009,009,"Bleckede, Schulzentrum",4,"Bleckede, Brennbusch",4.9,07:46:42,53.28172391303896,10.755020788905533
+009,009,"Bleckede, Schulzentrum",5,"Bleckede, Elbweg",0.5,07:47:12,53.2843180414579,10.751835993803104
+009,009,"Bleckede, Schulzentrum",6,"Bleckede, Saatbau",1.3,07:48:30,53.28511004143899,10.740111000245383
+009,009,"Bleckede, Schulzentrum",7,"Bleckede, Schulzentrum",1.5,07:50:00,53.2850469374217,10.731456260160396
+010,010,"Bleckede, Schulzentrum",0,"Bavendorf, Im Dorfe",0.0,07:26:06,53.195856055622244,10.639400812177023
+010,010,"Bleckede, Schulzentrum",1,"Thomasburg, Im Winkel",7.1,07:33:12,53.233289547384175,10.656240736677331
+010,010,"Bleckede, Schulzentrum",2,"Wiecheln, Abzweig K 26",3.0,07:36:12,53.22405934710722,10.676704745896199
+010,010,"Bleckede, Schulzentrum",3,"Bleckede, Schulzentrum",13.8,07:50:00,53.2850469374217,10.731456260160396
+011,011,"Bleckede, Schulzentrum",0,"Dahlem, Steinweg",0.0,06:54:36,53.20324909395155,10.748022869721112
+011,011,"Bleckede, Schulzentrum",1,"Dahlenburg, Abzweigung Dumstorf",9.1,07:03:42,53.18927642669189,10.698056022142783
+011,011,"Bleckede, Schulzentrum",2,Birkenhof,1.4,07:05:06,53.19730594758264,10.698013914747458
+011,011,"Bleckede, Schulzentrum",3,Klein Sommerbeck 15,2.3,07:07:24,53.201464001580845,10.678626715110786
+011,011,"Bleckede, Schulzentrum",4,"Thomasburg, Radenbecker Weg",11.5,07:18:54,53.22962935901358,10.65389919540472
+011,011,"Bleckede, Schulzentrum",5,"Radenbeck, Dorfstraße",2.8,07:21:42,53.22448552500447,10.630140773163959
+011,011,"Bleckede, Schulzentrum",6,"Radenbeck, Im Siek",1.2,07:22:54,53.217861840174784,10.626409068210407
+011,011,"Bleckede, Schulzentrum",7,"Bavendorf, Mitte/B 216",4.6,07:27:30,53.197257123693824,10.637854777295406
+011,011,"Bleckede, Schulzentrum",8,"Wiecheln, Abzweig K 26",8.7,07:36:12,53.22405934710722,10.676704745896199
+011,011,"Bleckede, Schulzentrum",9,"Ellringen, Kettelberg",2.8,07:39:00,53.22619119584087,10.704046202369922
+011,011,"Bleckede, Schulzentrum",10,"Bleckede, Schulzentrum",11.0,07:50:00,53.2850469374217,10.731456260160396
+012,012,"Bleckede, Töpferdamm",0,"Gienau, Wiebecker Straße",0.0,04:07:12,53.16452854233961,10.664460093937663
+012,012,"Bleckede, Töpferdamm",1,"Gienau, Am Steckelberg",0.7,04:07:54,53.16366932482393,10.671395689806221
+012,012,"Bleckede, Töpferdamm",2,"Lemgrabe, Hauptstraße 32",3.4,04:11:18,53.16818504157565,10.699601997282473
+012,012,"Bleckede, Töpferdamm",3,"Lemgrabe, Am Hasenberg",0.6,04:11:54,53.17100169131662,10.704123886926874
+012,012,"Bleckede, Töpferdamm",4,"Dahlenburg, Abzweigung Dumstorf",3.4,04:15:18,53.18927642669189,10.698056022142783
+012,012,"Bleckede, Töpferdamm",5,"Nahrendorf, Mücklingen",11.7,04:27:00,53.180415997689366,10.784191005351616
+012,012,"Bleckede, Töpferdamm",6,"Nahrendorf, Im Klint",3.0,04:30:00,53.17363603876914,10.811979999180041
+012,012,"Bleckede, Töpferdamm",7,"Tosterglope, Neuhauser Straße",6.6,04:36:36,53.209612401324215,10.822991908826413
+012,012,"Bleckede, Töpferdamm",8,"Ventschau, Am Dicken Busch",3.7,04:40:18,53.204558079763096,10.851530304565568
+012,012,"Bleckede, Töpferdamm",9,"Ventschau, Ortsmitte",0.8,04:41:06,53.201130039348726,10.856264548139535
+012,012,"Bleckede, Töpferdamm",10,"Kovahl, Alter Rundling",3.2,04:44:18,53.18293426801139,10.85906255548105
+012,012,"Bleckede, Töpferdamm",11,"Neestahl, Kleinmoor",0.7,04:45:00,53.180301933972494,10.863943211265864
+012,012,"Bleckede, Töpferdamm",12,"Neestahl, Abzweig Tangsehl",1.8,04:46:48,53.17158107130864,10.872182932965321
+012,012,"Bleckede, Töpferdamm",13,"Pommoissel, Pommoisseler Straße",1.5,04:48:18,53.16378458092458,10.867388862909756
+012,012,"Bleckede, Töpferdamm",14,Lüben,1.7,04:50:00,53.15725124601246,10.855304607227259
+012,012,"Bleckede, Töpferdamm",15,"Nahrendorf, Tangsehler Weg",6.2,04:56:12,53.17492067028414,10.818318801375577
+012,012,"Bleckede, Töpferdamm",16,"Barskamp, Walmsburger Straße",12.7,05:08:54,53.2434695566007,10.78536024941541
+012,012,"Bleckede, Töpferdamm",17,Eichdorf,15.9,05:24:48,53.162380557949895,10.833764489881574
+012,012,"Bleckede, Töpferdamm",18,"Breese, Abzw. Göhrde Bahnhof",2.1,05:26:54,53.16645843317809,10.851390963806592
+012,012,"Bleckede, Töpferdamm",19,"Walmsburg, Kateminer Straße",17.1,05:44:00,53.23908603932158,10.843671006776443
+012,012,"Bleckede, Töpferdamm",20,"Walmsburg, Bruchdorfer Straße",0.5,05:44:30,53.239024495063525,10.848634946421365
+012,012,"Bleckede, Töpferdamm",21,"Alt Garge, Waldbad",6.2,05:50:42,53.25807476279319,10.804377176109105
+012,012,"Bleckede, Töpferdamm",22,"Alt Garge, Hauptstraße",1.5,05:52:12,53.265021033426805,10.802248000630904
+012,012,"Bleckede, Töpferdamm",23,"Alt Garge, Bahnhof",0.9,05:53:06,53.26613612600809,10.793782366514698
+012,012,"Bleckede, Töpferdamm",24,"Bleckede, Brennbusch",4.9,05:58:00,53.28172391303896,10.755020788905533
+012,012,"Bleckede, Töpferdamm",25,"Göddingen, Wöppenberg",8.6,06:06:36,53.25671904092266,10.761018005669564
+012,012,"Bleckede, Töpferdamm",26,"Nindorf bei Bleckede, L 222",2.1,06:08:42,53.26182812419796,10.742751993951906
+012,012,"Bleckede, Töpferdamm",27,"Marienau, Gymnasium",13.5,06:22:12,53.20368186188375,10.725401068909685
+012,012,"Bleckede, Töpferdamm",28,"Köstorf, Haus Nr. 6",7.8,06:30:00,53.22893701383024,10.753849286755134
+012,012,"Bleckede, Töpferdamm",29,"Dahlenburg, Quickborn",7.4,06:37:24,53.186208951029975,10.752940252764787
+012,012,"Bleckede, Töpferdamm",30,"Dahlenburg, Grundschule",1.4,06:38:48,53.18803028156687,10.741883277874901
+012,012,"Bleckede, Töpferdamm",31,"Dahlenburg, Markt",0.2,06:39:00,53.18696979143374,10.742123132711072
+012,012,"Bleckede, Töpferdamm",32,"Dahlenburg, Mittelfeld",2.1,06:41:06,53.191459385435024,10.7235240984447
+012,012,"Bleckede, Töpferdamm",33,Birkenhof,4.6,06:45:42,53.19730594758264,10.698013914747458
+012,012,"Bleckede, Töpferdamm",34,"Lemgrabe, An der Kleinbahn",5.2,06:50:54,53.17704325913337,10.713472879397328
+012,012,"Bleckede, Töpferdamm",35,"Dumstorf, Am Kirchkamp",2.1,06:53:00,53.178938852099364,10.696436376208084
+012,012,"Bleckede, Töpferdamm",36,"Eimstorf, Ort",2.4,06:55:24,53.186195496441734,10.682794086195525
+012,012,"Bleckede, Töpferdamm",37,"Dahlenburg, Abzweig Sommerbeck",1.3,06:56:42,53.18991113254602,10.6785882085881
+012,012,"Bleckede, Töpferdamm",38,"Bavendorf, Mitte/B 216",4.3,07:01:00,53.197257123693824,10.637854777295406
+012,012,"Bleckede, Töpferdamm",39,"Bavendorf, Im Dorfe",0.5,07:01:30,53.195856055622244,10.639400812177023
+012,012,"Bleckede, Töpferdamm",40,"Thomasburg, Radenbecker Weg",6.2,07:07:42,53.22962935901358,10.65389919540472
+012,012,"Bleckede, Töpferdamm",41,"Thomasburg, Im Winkel",1.1,07:08:48,53.233289547384175,10.656240736677331
+012,012,"Bleckede, Töpferdamm",42,"Bleckede, Sandfeld",16.9,07:25:42,53.285401529867656,10.72213847827448
+012,012,"Bleckede, Töpferdamm",43,"Ellringen, Kettelberg",11.2,07:36:54,53.22619119584087,10.704046202369922
+012,012,"Bleckede, Töpferdamm",44,"Bleckede, Breetzer Straße",10.0,07:46:54,53.282170444138764,10.724854869341002
+012,012,"Bleckede, Töpferdamm",45,"Bleckede, Schulzentrum",1.1,07:48:00,53.2850469374217,10.731456260160396
+012,012,"Bleckede, Töpferdamm",46,"Bleckede, Töpferdamm",2.0,07:50:00,53.29386256401939,10.725027363216109

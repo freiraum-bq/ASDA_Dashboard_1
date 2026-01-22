@@ -1,0 +1,631 @@
+trip_id,route_short_name,trip_headsign,stop_sequence,stop_name,minutes_to_stop,arrival_time,stop_lat,stop_lon
+N1_North,N1,"Scharnebeck, Schulzentrum",0,"Garze, Große Straße 71",0,05:33:00,612240.047,5907944.401
+N1_North,N1,"Scharnebeck, Schulzentrum",1,"Karze, An den Hauskoppeln",1,05:34:00,611574.235,5908500.557
+N1_North,N1,"Scharnebeck, Schulzentrum",2,"Karze, Am Rotdorn",0,05:35:00,611606.475,5908678.363
+N1_North,N1,"Scharnebeck, Schulzentrum",3,"Brackede, Abzweig Garlstorf",6,05:41:00,613144.266,5912356.438
+N1_North,N1,"Scharnebeck, Schulzentrum",4,"Garlstorf bei Bleckede, Neu Brackede",1,05:42:00,612575.29,5912397.815
+N1_North,N1,"Scharnebeck, Schulzentrum",5,"Garlstorf bei Bleckede, Dorfstraße 36",1,05:43:00,611611.799,5912516.036
+N1_North,N1,"Scharnebeck, Schulzentrum",6,"Garlstorf bei Bleckede, Dorfstraße 68",1,05:44:00,611143.249,5912634.262
+N1_North,N1,"Scharnebeck, Schulzentrum",7,"Wendewisch, Campingplatz",3,05:47:00,609822.719,5913450.358
+N1_North,N1,"Scharnebeck, Schulzentrum",8,"Wendewisch, Hittberger Straße 56",3,05:50:00,608758.175,5911841.079
+N1_North,N1,"Scharnebeck, Schulzentrum",9,"Hittbergen, Feldstraße",5,05:54:00,606187.456,5911762.124
+N1_North,N1,"Scharnebeck, Schulzentrum",10,"Hittbergen, Im Kamp",1,05:56:00,605254.687,5911817.184
+N1_North,N1,"Scharnebeck, Schulzentrum",11,"Bullendorf bei Echem, Am Buscheberg",1,05:57:00,604707.453,5912035.881
+N1_North,N1,"Scharnebeck, Schulzentrum",12,"Hohnstorf, Triftweg",3,06:00:00,603919.152,5913499.844
+N1_North,N1,"Scharnebeck, Schulzentrum",13,"Hohnstorf, Am Sportzentrum",1,06:01:00,603181.504,5913931.068
+N1_North,N1,"Scharnebeck, Schulzentrum",14,"Hohnstorf, Dorfstraße",0,06:01:00,603247.247,5914110.093
+N1_North,N1,"Scharnebeck, Schulzentrum",15,"Hohnstorf, Kindergarten",1,06:02:00,603749.413,5914051.041
+N1_North,N1,"Scharnebeck, Schulzentrum",16,"Hohnstorf, Triftweg",1,06:03:00,603919.152,5913499.844
+N1_North,N1,"Scharnebeck, Schulzentrum",17,"Hohnstorf, Ernst-Kissolewski-Straße",1,06:04:00,604002.24,5912826.436
+N1_North,N1,"Scharnebeck, Schulzentrum",18,"Bullendorf bei Echem, Am Buscheberg",2,06:06:00,604707.453,5912035.881
+N1_North,N1,"Scharnebeck, Schulzentrum",19,"Hittbergen, Im Kamp",1,06:07:00,605254.687,5911817.184
+N1_North,N1,"Scharnebeck, Schulzentrum",20,"Hittbergen, Feldstraße",1,06:08:00,606187.456,5911762.124
+N1_North,N1,"Scharnebeck, Schulzentrum",21,"Lüdersburg, Abzweigung Jörgenstorf",4,06:12:00,606228.344,5910222.622
+N1_North,N1,"Scharnebeck, Schulzentrum",22,"Jürgenstorf, Jürgenstorfer Straße",1,06:13:00,606398.167,5909423.894
+N1_North,N1,"Scharnebeck, Schulzentrum",23,"Neu Jörgenstorf, Birkenweg",3,06:16:00,607681.953,5908081.784
+N1_North,N1,"Scharnebeck, Schulzentrum",24,"Neu Neetze, Tennisclub",4,06:20:00,607787.223,5905389.47
+N1_North,N1,"Scharnebeck, Schulzentrum",25,"Neetze, Am Ried",3,06:23:00,608017.507,5903912.516
+N1_North,N1,"Scharnebeck, Schulzentrum",26,"Neetze, Bahnhof",1,06:24:00,608460.776,5903496.011
+N1_North,N1,"Scharnebeck, Schulzentrum",27,"Neetze, Am Dorfplatz",1,06:25:00,608364.473,5903021.625
+N1_North,N1,"Scharnebeck, Schulzentrum",28,"Neetze, Neetzebrücke",1,06:26:00,607726.233,5902979.54
+N1_North,N1,"Scharnebeck, Schulzentrum",29,"Boltersen, Rullstorfer Straße",7,06:33:00,604449.516,5904011.669
+N1_North,N1,"Scharnebeck, Schulzentrum",30,"Rullstorf, Boltersener Straße",3,06:36:00,602453.46,5904916.752
+N1_North,N1,"Scharnebeck, Schulzentrum",31,"Rullstorf, Alte Dorfstraße",2,06:38:00,602632.226,5905540.982
+N1_North,N1,"Scharnebeck, Schulzentrum",32,"Rullstorf, Im Ort",1,06:39:00,602044.032,5905203.68
+N1_North,N1,"Scharnebeck, Schulzentrum",33,"Scharnebeck, Meisterstraße",3,06:41:00,600692.96,5906032.384
+N1_North,N1,"Scharnebeck, Schulzentrum",34,"Scharnebeck, Grundschule",0,06:42:00,600615.406,5905891.393
+N1_North,N1,"Scharnebeck, Schulzentrum",35,"Scharnebeck, Hauptstraße",1,06:42:00,600339.778,5905715.525
+N1_North,N1,"Scharnebeck, Schulzentrum",36,"Scharnebeck, Adendorfer Straße",1,06:43:00,600027.316,5905641.517
+N1_North,N1,"Scharnebeck, Schulzentrum",37,"Scharnebeck, Schulzentrum",1,06:44:00,599809.175,5905562.703
+N2_North,N2,"Scharnebeck, Schulzentrum",0,"Rullstorf, Im Ort",0,06:02:00,602044.032,5905203.68
+N2_North,N2,"Scharnebeck, Schulzentrum",1,"Scharnebeck, Meisterstraße",3,06:04:00,600692.96,5906032.384
+N2_North,N2,"Scharnebeck, Schulzentrum",2,"Scharnebeck, Echemer Straße",1,06:06:00,600350.047,5906433.367
+N2_North,N2,"Scharnebeck, Schulzentrum",3,"Echem, Dorfstraße",9,06:15:00,602086.883,5910832.765
+N2_North,N2,"Scharnebeck, Schulzentrum",4,Echem,1,06:15:00,602405.01,5910917.696
+N2_North,N2,"Scharnebeck, Schulzentrum",5,"Echem, Schulstraße",1,06:17:00,602747.163,5910945.686
+N2_North,N2,"Scharnebeck, Schulzentrum",6,"Bullendorf bei Echem, Brücke",3,06:20:00,604283.362,5911782.946
+N2_North,N2,"Scharnebeck, Schulzentrum",7,"Bullendorf bei Echem, Am Buscheberg",1,06:20:00,604707.453,5912035.881
+N2_North,N2,"Scharnebeck, Schulzentrum",8,"Hohnstorf, Ernst-Kissolewski-Straße",2,06:22:00,604002.24,5912826.436
+N2_North,N2,"Scharnebeck, Schulzentrum",9,"Hohnstorf, Triftweg",1,06:23:00,603919.152,5913499.844
+N2_North,N2,"Scharnebeck, Schulzentrum",10,"Hohnstorf, Schule",1,06:24:00,604079.326,5913620.836
+N2_North,N2,"Scharnebeck, Schulzentrum",11,"Hohnstorf, Kindergarten",1,06:25:00,603749.413,5914051.041
+N2_North,N2,"Scharnebeck, Schulzentrum",12,"Hohnstorf, Dorfstraße",1,06:25:00,603247.247,5914110.093
+N2_North,N2,"Scharnebeck, Schulzentrum",13,"Hohnstorf, Am Sportzentrum",0,06:26:00,603181.504,5913931.068
+N2_North,N2,"Scharnebeck, Schulzentrum",14,"Hohnstorf, Triftweg",1,06:27:00,603919.152,5913499.844
+N2_North,N2,"Scharnebeck, Schulzentrum",15,"Hohnstorf, Ernst-Kissolewski-Straße",1,06:28:00,604002.24,5912826.436
+N2_North,N2,"Scharnebeck, Schulzentrum",16,"Bullendorf bei Echem, Brücke",2,06:30:00,604283.362,5911782.946
+N2_North,N2,"Scharnebeck, Schulzentrum",17,"Scharnebeck, Bardowicker Straße",13,06:43:00,600209.589,5906120.948
+N2_North,N2,"Scharnebeck, Schulzentrum",18,"Scharnebeck, Lübbelau",1,06:44:00,599900.474,5905994.689
+N2_North,N2,"Scharnebeck, Schulzentrum",19,"Scharnebeck, Schulzentrum",1,06:45:00,599809.175,5905562.703
+N3_North,N3,"Bleckede, Schulzentrum",0,"Neu Jörgenstorf, Ort",0,06:36:00,607590.111,5907673.817
+N3_North,N3,"Bleckede, Schulzentrum",1,"Neu Jörgenstorf, Birkenweg",1,06:37:00,607681.953,5908081.784
+N3_North,N3,"Bleckede, Schulzentrum",2,"Jürgenstorf, Jürgenstorfer Straße",3,06:40:00,606398.167,5909423.894
+N3_North,N3,"Bleckede, Schulzentrum",3,"Lüdersburg, Abzweigung Jörgenstorf",1,06:41:00,606228.344,5910222.622
+N3_North,N3,"Bleckede, Schulzentrum",4,"Hittbergen, Feldstraße",4,06:45:00,606187.456,5911762.124
+N3_North,N3,"Bleckede, Schulzentrum",5,"Hittbergen, Im Kamp",1,06:46:00,605254.687,5911817.184
+N3_North,N3,"Bleckede, Schulzentrum",6,"Bullendorf bei Echem, Am Buscheberg",1,06:47:00,604707.453,5912035.881
+N3_North,N3,"Bleckede, Schulzentrum",7,"Hohnstorf, Triftweg",3,06:50:00,603919.152,5913499.844
+N3_North,N3,"Bleckede, Schulzentrum",8,"Hohnstorf, Schule",1,06:50:00,604079.326,5913620.836
+N3_North,N3,"Bleckede, Schulzentrum",9,"Hohnstorf, Triftweg",1,06:51:00,603919.152,5913499.844
+N3_North,N3,"Bleckede, Schulzentrum",10,"Hohnstorf, Ernst-Kissolewski-Straße",1,06:52:00,604002.24,5912826.436
+N3_North,N3,"Bleckede, Schulzentrum",11,"Bullendorf bei Echem, Am Buscheberg",2,06:54:00,604707.453,5912035.881
+N3_North,N3,"Bleckede, Schulzentrum",12,"Hittbergen, Im Kamp",1,06:55:00,605254.687,5911817.184
+N3_North,N3,"Bleckede, Schulzentrum",13,"Hittbergen, Roggenberg",2,06:57:00,606252.692,5912191.658
+N3_North,N3,"Bleckede, Schulzentrum",14,"Hittbergen, Schönfeld",3,07:00:00,607487.772,5914010.156
+N3_North,N3,"Bleckede, Schulzentrum",15,"Barförde, Barförder Elbdeich 22",1,07:01:00,608331.544,5914439.365
+N3_North,N3,"Bleckede, Schulzentrum",16,"Barförde, Feuerwehr",0,07:02:00,608609.868,5914381.9
+N3_North,N3,"Bleckede, Schulzentrum",17,"Barförde, Elbdeich 15",1,07:03:00,609012.153,5913867.75
+N3_North,N3,"Bleckede, Schulzentrum",18,"Barförde, Poggenort",1,07:04:00,609361.236,5913627.798
+N3_North,N3,"Bleckede, Schulzentrum",19,"Wendewisch, Hittberger Straße 59",2,07:05:00,609639.639,5912903.189
+N3_North,N3,"Bleckede, Schulzentrum",20,"Wendewisch, Siedlung",1,07:06:00,610023.195,5912357.941
+N3_North,N3,"Bleckede, Schulzentrum",21,"Garlstorf bei Bleckede, Schmiede",1,07:07:00,610493.948,5912478.956
+N3_North,N3,"Bleckede, Schulzentrum",22,"Garlstorf bei Bleckede, Dorfstraße 68",1,07:08:00,611143.249,5912634.262
+N3_North,N3,"Bleckede, Schulzentrum",23,"Garlstorf bei Bleckede, Dorfstraße 36",1,07:09:00,611611.799,5912516.036
+N3_North,N3,"Bleckede, Schulzentrum",24,"Garlstorf bei Bleckede, Neu Brackede",1,07:11:00,612575.29,5912397.815
+N3_North,N3,"Bleckede, Schulzentrum",25,"Karze, Am Rotdorn",7,07:17:00,611606.475,5908678.363
+N3_North,N3,"Bleckede, Schulzentrum",26,"Karze, An den Hauskoppeln",0,07:18:00,611574.235,5908500.557
+N3_North,N3,"Bleckede, Schulzentrum",27,"Karze, Auf dem Weel",1,07:19:00,611157.681,5908137.205
+N3_North,N3,"Bleckede, Schulzentrum",28,"Neu Neetze, Birkenhof",4,07:22:00,610190.34,5906023.199
+N3_North,N3,"Bleckede, Schulzentrum",29,"Bleckeder Moor, Zweiter Moorweg",3,07:25:00,611075.263,5906675.007
+N3_North,N3,"Bleckede, Schulzentrum",30,"Bleckeder Moor, Heidmoor",1,07:26:00,611504.826,5906899.519
+N3_North,N3,"Bleckede, Schulzentrum",31,"Bleckeder Moor, Fuchsweg",2,07:28:00,612632.36,5906147.619
+N3_North,N3,"Bleckede, Schulzentrum",32,"Bleckeder Moor, Am Papenkamp",1,07:29:00,613388.762,5906072.426
+N3_North,N3,"Bleckede, Schulzentrum",33,"Bleckede, Töpferdamm",3,07:32:00,614974.725,5906348.906
+N3_North,N3,"Bleckede, Schulzentrum",34,"Bleckede, Elbtalhaus",0,07:32:00,614979.147,5906490.636
+N3_North,N3,"Bleckede, Schulzentrum",35,"Bleckede, Töpferdamm",0,07:33:00,614974.725,5906348.906
+N3_North,N3,"Bleckede, Schulzentrum",36,"Bleckede, Schulzentrum",2,07:35:00,615426.943,5905378.684
+N4_North,N4,"Bleckede, Schulzentrum",0,"Neu Neetze, Am Milchberg",0,06:56:00,609952.174,5905669.038
+N4_North,N4,"Bleckede, Schulzentrum",1,"Neetze, Bockelheide",2,06:57:00,609355.907,5904782.244
+N4_North,N4,"Bleckede, Schulzentrum",2,"Neetze, Bahnhof",2,07:00:00,608460.776,5903496.011
+N4_North,N4,"Bleckede, Schulzentrum",3,"Neetze, Neetzebrücke",2,07:01:00,607726.233,5902979.54
+N4_North,N4,"Bleckede, Schulzentrum",4,"Boltersen, Rullstorfer Straße",7,07:08:00,604449.516,5904011.669
+N4_North,N4,"Bleckede, Schulzentrum",5,"Boltersen, Bahnhofstraße",0,07:09:00,604444.254,5904087.757
+N4_North,N4,"Bleckede, Schulzentrum",6,"Boltersen, Bahnhof",2,07:10:00,604658.327,5905224.822
+N4_North,N4,"Bleckede, Schulzentrum",7,"Neu Boltersen, Neumühler Weg",1,07:11:00,604539.599,5905652.105
+N4_North,N4,"Bleckede, Schulzentrum",8,"Neu Boltersen, Möhlenkamp",1,07:12:00,604010.757,5905649.524
+N4_North,N4,"Bleckede, Schulzentrum",9,"Rullstorf, Am Neetzekanal",2,07:14:00,603897.781,5906397.555
+N4_North,N4,"Bleckede, Schulzentrum",10,"Bockelkathen, Auf dem Kreuze",1,07:15:00,604557.821,5907118.289
+N4_North,N4,"Bleckede, Schulzentrum",11,"Lüdersburg, Kirchtwiete",3,07:18:00,604827.221,5909064.274
+N4_North,N4,"Bleckede, Schulzentrum",12,"Jürgenstorf, Jürgenstorfer Straße",4,07:22:00,606398.167,5909423.894
+N4_North,N4,"Bleckede, Schulzentrum",13,"Neu Jörgenstorf, Ahrenschulter",3,07:25:00,608188.259,5908672.231
+N4_North,N4,"Bleckede, Schulzentrum",14,"Rosenthal, L 219",1,07:26:00,608859.792,5908619.911
+N4_North,N4,"Bleckede, Schulzentrum",15,"Karze, An den Hauskoppeln",4,07:30:00,611574.235,5908500.557
+N4_North,N4,"Bleckede, Schulzentrum",16,"Garze, Große Straße 71",1,07:32:00,612240.047,5907944.401
+N4_North,N4,"Bleckede, Schulzentrum",17,"Garze, Große Straße 29",1,07:33:00,612943.079,5907794.316
+N4_North,N4,"Bleckede, Schulzentrum",18,"Garze, Große Straße 3",2,07:34:00,613685.811,5907192.814
+N4_North,N4,"Bleckede, Schulzentrum",19,"Bleckede, Schulzentrum",4,07:39:00,615426.943,5905378.684
+N5_North,N5,"Bleckede, Schulzentrum",0,"Echem, Dorfstraße",0,06:47:00,602086.883,5910832.765
+N5_North,N5,"Bleckede, Schulzentrum",1,"Echem, Schulstraße",1,06:48:00,602747.163,5910945.686
+N5_North,N5,"Bleckede, Schulzentrum",2,"Bullendorf bei Echem, Brücke",3,06:51:00,604283.362,5911782.946
+N5_North,N5,"Bleckede, Schulzentrum",3,"Hohnstorf, Ernst-Kissolewski-Straße",2,06:53:00,604002.24,5912826.436
+N5_North,N5,"Bleckede, Schulzentrum",4,"Hohnstorf, Triftweg",1,06:54:00,603919.152,5913499.844
+N5_North,N5,"Bleckede, Schulzentrum",5,"Hohnstorf, Am Sportzentrum",1,06:56:00,603181.504,5913931.068
+N5_North,N5,"Bleckede, Schulzentrum",6,"Hohnstorf, Bundesstraße 10",1,06:57:00,602266.83,5913928.426
+N5_North,N5,"Bleckede, Schulzentrum",7,"Hohnstorf, Dorfstraße",2,06:58:00,603247.247,5914110.093
+N5_North,N5,"Bleckede, Schulzentrum",8,"Hohnstorf, Kindergarten",1,06:59:00,603749.413,5914051.041
+N5_North,N5,"Bleckede, Schulzentrum",9,"Hohnstorf, Schule",1,07:00:00,604079.326,5913620.836
+N5_North,N5,"Bleckede, Schulzentrum",10,"Hohnstorf, Triftweg",1,07:01:00,603919.152,5913499.844
+N5_North,N5,"Bleckede, Schulzentrum",11,"Bullendorf bei Echem, Am Buscheberg",3,07:03:00,604707.453,5912035.881
+N5_North,N5,"Bleckede, Schulzentrum",12,"Hittbergen, Im Kamp",1,07:04:00,605254.687,5911817.184
+N5_North,N5,"Bleckede, Schulzentrum",13,"Hittbergen, Kirche",1,07:05:00,605798.209,5911777.758
+N5_North,N5,"Bleckede, Schulzentrum",14,"Hittbergen, Feldstraße",1,07:06:00,606187.456,5911762.124
+N5_North,N5,"Bleckede, Schulzentrum",15,"Wendewisch, Hittberger Straße 56",5,07:11:00,608758.175,5911841.079
+N5_North,N5,"Bleckede, Schulzentrum",16,"Wendewisch, Hittberger Straße 59",2,07:13:00,609639.639,5912903.189
+N5_North,N5,"Bleckede, Schulzentrum",17,"Wendewisch, Siedlung",1,07:14:00,610023.195,5912357.941
+N5_North,N5,"Bleckede, Schulzentrum",18,"Garlstorf bei Bleckede, Schmiede",1,07:15:00,610493.948,5912478.956
+N5_North,N5,"Bleckede, Schulzentrum",19,"Garlstorf bei Bleckede, Dorfstraße 68",1,07:16:00,611143.249,5912634.262
+N5_North,N5,"Bleckede, Schulzentrum",20,"Garlstorf bei Bleckede, Dorfstraße 36",1,07:17:00,611611.799,5912516.036
+N5_North,N5,"Bleckede, Schulzentrum",21,"Garlstorf bei Bleckede, Neu Brackede",1,07:18:00,612575.29,5912397.815
+N5_North,N5,"Bleckede, Schulzentrum",22,"Brackede, Abzweig Garlstorf",1,07:19:00,613144.266,5912356.438
+N5_North,N5,"Bleckede, Schulzentrum",23,"Brackede, Pferdekoppel",1,07:20:00,613621.548,5912932.806
+N5_North,N5,"Bleckede, Schulzentrum",24,"Radegast, Elbuferstraße 41",1,07:22:00,614244.922,5912358.382
+N5_North,N5,"Bleckede, Schulzentrum",25,"Radegast, Zum Kirchplatz",1,07:23:00,614810.611,5912061.823
+N5_North,N5,"Bleckede, Schulzentrum",26,"Garze, Große Straße 29",9,07:32:00,612943.079,5907794.316
+N5_North,N5,"Bleckede, Schulzentrum",27,"Garze, Große Straße 3",2,07:34:00,613685.811,5907192.814
+N5_North,N5,"Bleckede, Schulzentrum",28,"Bleckede, Marschweg",2,07:35:00,614644.362,5906707.289
+N5_North,N5,"Bleckede, Schulzentrum",29,"Bleckede, Elbtalhaus",1,07:36:00,614979.147,5906490.636
+N5_North,N5,"Bleckede, Schulzentrum",30,"Bleckede, Schulzentrum",2,07:38:00,615426.943,5905378.684
+N6_North,N6,"Bleckede, Elbtalhaus",0,"Garze, Große Straße 71",0,07:06:00,612240.047,5907944.401
+N6_North,N6,"Bleckede, Elbtalhaus",1,"Karze, An den Hauskoppeln",1,07:07:00,611574.235,5908500.557
+N6_North,N6,"Bleckede, Elbtalhaus",2,"Karze, Am Rotdorn",0,07:08:00,611606.475,5908678.363
+N6_North,N6,"Bleckede, Elbtalhaus",3,"Vogelsang, Ort",3,07:10:00,610507.887,5909657.509
+N6_North,N6,"Bleckede, Elbtalhaus",4,Vogelsang 11,1,07:11:00,609945.324,5909591.857
+N6_North,N6,"Bleckede, Elbtalhaus",5,"Rosenthal, L 219",3,07:14:00,608859.792,5908619.911
+N6_North,N6,"Bleckede, Elbtalhaus",6,"Rosenthal, Ortsmitte",1,07:15:00,608837.709,5908138.268
+N6_North,N6,"Bleckede, Elbtalhaus",7,"Neu Neetze, Haus Nr. 50",2,07:16:00,608783.382,5907080.764
+N6_North,N6,"Bleckede, Elbtalhaus",8,"Neu Neetze, Denker",2,07:19:00,608089.171,5906329.301
+N6_North,N6,"Bleckede, Elbtalhaus",9,"Neu Neetze, Tennisclub",2,07:21:00,607787.223,5905389.47
+N6_North,N6,"Bleckede, Elbtalhaus",10,"Neetze, Am Ried",3,07:23:00,608017.507,5903912.516
+N6_North,N6,"Bleckede, Elbtalhaus",11,"Neetze, Bahnhof",1,07:24:00,608460.776,5903496.011
+N6_North,N6,"Bleckede, Elbtalhaus",12,"Neetze, Am Jahnstadion",1,07:25:00,608871.858,5903208.765
+N6_North,N6,"Bleckede, Elbtalhaus",13,"Neetze, Grundschule",1,07:27:00,608570.613,5902642.991
+N6_North,N6,"Bleckede, Elbtalhaus",14,"Neetze, Am Dorfplatz",1,07:28:00,608364.473,5903021.625
+N6_North,N6,"Bleckede, Elbtalhaus",15,"Neetze, Neetzebrücke",1,07:28:00,607726.233,5902979.54
+N6_North,N6,"Bleckede, Elbtalhaus",16,"Neetze, Am Dorfplatz",1,07:29:00,608364.473,5903021.625
+N6_North,N6,"Bleckede, Elbtalhaus",17,"Neetze, Am Jahnstadion",1,07:30:00,608871.858,5903208.765
+N6_North,N6,"Bleckede, Elbtalhaus",18,Neu Süttorf,5,07:36:00,612288.74,5903985.317
+N6_North,N6,"Bleckede, Elbtalhaus",19,"Bleckede, Lüneburger Straße",5,07:41:00,615241.052,5905738.745
+N6_North,N6,"Bleckede, Elbtalhaus",20,"Bleckede, Schulzentrum",1,07:42:00,615426.943,5905378.684
+N6_North,N6,"Bleckede, Elbtalhaus",21,"Bleckede, Elbtalhaus",2,07:44:00,614979.147,5906490.636
+N7_North,N7,"Hohnstorf, Schule",0,"Echem, Schulstraße",0,07:26:00,602747.163,5910945.686
+N7_North,N7,"Hohnstorf, Schule",1,"Bullendorf bei Echem, Brücke",3,07:29:00,604283.362,5911782.946
+N7_North,N7,"Hohnstorf, Schule",2,"Bullendorf bei Echem, Am Buscheberg",1,07:30:00,604707.453,5912035.881
+N7_North,N7,"Hohnstorf, Schule",3,"Hittbergen, Im Kamp",1,07:31:00,605254.687,5911817.184
+N7_North,N7,"Hohnstorf, Schule",4,"Hittbergen, Kirche",1,07:32:00,605798.209,5911777.758
+N7_North,N7,"Hohnstorf, Schule",5,"Hittbergen, Im Kamp",1,07:33:00,605254.687,5911817.184
+N7_North,N7,"Hohnstorf, Schule",6,"Bullendorf bei Echem, Am Buscheberg",1,07:34:00,604707.453,5912035.881
+N7_North,N7,"Hohnstorf, Schule",7,"Hohnstorf, Triftweg",3,07:36:00,603919.152,5913499.844
+N7_North,N7,"Hohnstorf, Schule",8,"Hohnstorf, Schule",1,07:37:00,604079.326,5913620.836
+N8_North,N8,"Scharnebeck, Schulzentrum",0,"Scharnebeck, Hauptstraße",0,06:40:00,600339.778,5905715.525
+N8_North,N8,"Scharnebeck, Schulzentrum",1,"Scharnebeck, Meisterstraße",1,06:41:00,600692.96,5906032.384
+N8_North,N8,"Scharnebeck, Schulzentrum",2,"Rullstorf, K 2/Zum Bahnhof",2,06:43:00,601877.404,5905546.587
+N8_North,N8,"Scharnebeck, Schulzentrum",3,"Rullstorf, Im Ort",1,06:43:00,602044.032,5905203.68
+N8_North,N8,"Scharnebeck, Schulzentrum",4,"Scharnebeck, Meisterstraße",3,06:46:00,600692.96,5906032.384
+N8_North,N8,"Scharnebeck, Schulzentrum",5,"Scharnebeck, Grundschule",0,06:46:00,600615.406,5905891.393
+N8_North,N8,"Scharnebeck, Schulzentrum",6,"Scharnebeck, Hauptstraße",1,06:47:00,600339.778,5905715.525
+N8_North,N8,"Scharnebeck, Schulzentrum",7,"Scharnebeck, Adendorfer Straße",1,06:47:00,600027.316,5905641.517
+N8_North,N8,"Scharnebeck, Schulzentrum",8,"Scharnebeck, Schulzentrum",1,06:48:00,599809.175,5905562.703
+N9_North,N9,"Neetze, Grundschule",0,"Boltersen, Bahnhofstraße",0,07:39:00,604444.254,5904087.757
+N9_North,N9,"Neetze, Grundschule",1,Neumühlen bei Rullstorf,4,07:43:00,605719.551,5905412.405
+N9_North,N9,"Neetze, Grundschule",2,"Neu Neetze, Denker",4,07:47:00,608089.171,5906329.301
+N9_North,N9,"Neetze, Grundschule",3,"Neu Neetze, Haus Nr. 50",2,07:49:00,608783.382,5907080.764
+N9_North,N9,"Neetze, Grundschule",4,"Neu Neetze, Birkenhof",3,07:53:00,610190.34,5906023.199
+N9_North,N9,"Neetze, Grundschule",5,"Neu Neetze, Am Milchberg",1,07:53:00,609952.174,5905669.038
+N9_North,N9,"Neetze, Grundschule",6,"Neetze, Bockelheide",2,07:55:00,609355.907,5904782.244
+N9_North,N9,"Neetze, Grundschule",7,"Neetze, Bahnhof",2,07:57:00,608460.776,5903496.011
+N9_North,N9,"Neetze, Grundschule",8,"Neetze, Am Ried",1,07:58:00,608017.507,5903912.516
+N9_North,N9,"Neetze, Grundschule",9,"Neetze, Am Dorfplatz",2,08:00:00,608364.473,5903021.625
+N9_North,N9,"Neetze, Grundschule",10,"Neetze, Grundschule",1,08:01:00,608570.613,5902642.991
+N10_North,N10,"Hohnstorf, Schule",0,"Barförde, Poggenort",0,07:16:00,609361.236,5913627.798
+N10_North,N10,"Hohnstorf, Schule",1,"Barförde, Elbdeich 15",1,07:16:00,609012.153,5913867.75
+N10_North,N10,"Hohnstorf, Schule",2,"Barförde, Feuerwehr",1,07:17:00,608609.868,5914381.9
+N10_North,N10,"Hohnstorf, Schule",3,"Barförde, Barförder Elbdeich 22",0,07:18:00,608331.544,5914439.365
+N10_North,N10,"Hohnstorf, Schule",4,"Hittbergen, Schönfeld",1,07:19:00,607487.772,5914010.156
+N10_North,N10,"Hohnstorf, Schule",5,"Hittbergen, Roggenberg",3,07:23:00,606252.692,5912191.658
+N10_North,N10,"Hohnstorf, Schule",6,"Hittbergen, Feldstraße",1,07:24:00,606187.456,5911762.124
+N10_North,N10,"Hohnstorf, Schule",7,"Hittbergen, Im Kamp",1,07:25:00,605254.687,5911817.184
+N10_North,N10,"Hohnstorf, Schule",8,"Bullendorf bei Echem, Am Buscheberg",1,07:26:00,604707.453,5912035.881
+N10_North,N10,"Hohnstorf, Schule",9,"Hohnstorf, Triftweg",3,07:29:00,603919.152,5913499.844
+N10_North,N10,"Hohnstorf, Schule",10,"Hohnstorf, Schule",1,07:29:00,604079.326,5913620.836
+N11_North,N11,"Scharnebeck, Schulzentrum",0,"Bleckede, Bahnhof",0,06:18:00,615175.957,5906074.843
+N11_North,N11,"Scharnebeck, Schulzentrum",1,"Bleckede, Rathaus",1,06:18:00,615447.103,5906012.174
+N11_North,N11,"Scharnebeck, Schulzentrum",2,"Bleckede, Elbtalhaus",1,06:19:00,614979.147,5906490.636
+N11_North,N11,"Scharnebeck, Schulzentrum",3,"Bleckede, Marschweg",1,06:20:00,614644.362,5906707.289
+N11_North,N11,"Scharnebeck, Schulzentrum",4,"Garze, Große Straße 3",2,06:22:00,613685.811,5907192.814
+N11_North,N11,"Scharnebeck, Schulzentrum",5,"Garze, Große Straße 29",2,06:23:00,612943.079,5907794.316
+N11_North,N11,"Scharnebeck, Schulzentrum",6,"Garze, Große Straße 71",1,06:24:00,612240.047,5907944.401
+N11_North,N11,"Scharnebeck, Schulzentrum",7,"Karze, An den Hauskoppeln",1,06:26:00,611574.235,5908500.557
+N11_North,N11,"Scharnebeck, Schulzentrum",8,"Karze, Auf dem Weel",1,06:27:00,611157.681,5908137.205
+N11_North,N11,"Scharnebeck, Schulzentrum",9,"Neu Neetze, Birkenhof",4,06:30:00,610190.34,5906023.199
+N11_North,N11,"Scharnebeck, Schulzentrum",10,"Neu Neetze, Am Milchberg",1,06:31:00,609952.174,5905669.038
+N11_North,N11,"Scharnebeck, Schulzentrum",11,"Neu Neetze, Birkenhof",1,06:32:00,610190.34,5906023.199
+N11_North,N11,"Scharnebeck, Schulzentrum",12,"Neu Neetze, Denker",4,06:35:00,608089.171,5906329.301
+N11_North,N11,"Scharnebeck, Schulzentrum",13,Neumühlen bei Rullstorf,4,06:39:00,605719.551,5905412.405
+N11_North,N11,"Scharnebeck, Schulzentrum",14,"Neu Boltersen, Neumühler Weg",2,06:41:00,604539.599,5905652.105
+N11_North,N11,"Scharnebeck, Schulzentrum",15,"Neu Boltersen, Möhlenkamp",1,06:42:00,604010.757,5905649.524
+N11_North,N11,"Scharnebeck, Schulzentrum",16,"Rullstorf, K 2/Zum Bahnhof",3,06:45:00,601877.404,5905546.587
+N11_North,N11,"Scharnebeck, Schulzentrum",17,"Scharnebeck, Meisterstraße",2,06:47:00,600692.96,5906032.384
+N11_North,N11,"Scharnebeck, Schulzentrum",18,"Scharnebeck, Hauptstraße",1,06:48:00,600339.778,5905715.525
+N11_North,N11,"Scharnebeck, Schulzentrum",19,"Scharnebeck, Adendorfer Straße",1,06:49:00,600027.316,5905641.517
+N11_North,N11,"Scharnebeck, Schulzentrum",20,"Scharnebeck, Schulzentrum",1,06:50:00,599809.175,5905562.703
+N17_North,N17,"Scharnebeck, Schulzentrum",0,"Neu Neetze, Am Milchberg",0,05:38:00,609952.174,5905669.038
+N17_North,N17,"Scharnebeck, Schulzentrum",1,"Neetze, Bockelheide",2,05:40:00,609355.907,5904782.244
+N17_North,N17,"Scharnebeck, Schulzentrum",2,"Neetze, Bahnhof",2,05:42:00,608460.776,5903496.011
+N17_North,N17,"Scharnebeck, Schulzentrum",3,"Neetze, Am Dorfplatz",1,05:43:00,608364.473,5903021.625
+N17_North,N17,"Scharnebeck, Schulzentrum",4,"Neetze, Am Ried",2,05:45:00,608017.507,5903912.516
+N17_North,N17,"Scharnebeck, Schulzentrum",5,"Neu Neetze, Tennisclub",3,05:47:00,607787.223,5905389.47
+N17_North,N17,"Scharnebeck, Schulzentrum",6,"Neu Jörgenstorf, Birkenweg",4,05:51:00,607681.953,5908081.784
+N17_North,N17,"Scharnebeck, Schulzentrum",7,"Lüdersburg, Abzweigung Jörgenstorf",4,05:56:00,606228.344,5910222.622
+N17_North,N17,"Scharnebeck, Schulzentrum",8,"Hittbergen, Feldstraße",4,05:59:00,606187.456,5911762.124
+N17_North,N17,"Scharnebeck, Schulzentrum",9,"Hittbergen, Kirche",1,06:00:00,605798.209,5911777.758
+N17_North,N17,"Scharnebeck, Schulzentrum",10,"Hittbergen, Im Kamp",1,06:01:00,605254.687,5911817.184
+N17_North,N17,"Scharnebeck, Schulzentrum",11,"Bullendorf bei Echem, Am Buscheberg",1,06:02:00,604707.453,5912035.881
+N17_North,N17,"Scharnebeck, Schulzentrum",12,"Bullendorf bei Echem, Brücke",1,06:03:00,604283.362,5911782.946
+N17_North,N17,"Scharnebeck, Schulzentrum",13,"Echem, Birkenweg",3,06:05:00,603030.766,5910828.563
+N17_North,N17,"Scharnebeck, Schulzentrum",14,"Echem, Schulstraße",1,06:06:00,602747.163,5910945.686
+N17_North,N17,"Scharnebeck, Schulzentrum",15,Echem,1,06:07:00,602405.01,5910917.696
+N17_North,N17,"Scharnebeck, Schulzentrum",16,"Echem, Dorfstraße",1,06:08:00,602086.883,5910832.765
+N17_North,N17,"Scharnebeck, Schulzentrum",17,"Lüdersburg, Kirchtwiete",6,06:14:00,604827.221,5909064.274
+N17_North,N17,"Scharnebeck, Schulzentrum",18,"Bockelkathen, Auf dem Kreuze",3,06:17:00,604557.821,5907118.289
+N17_North,N17,"Scharnebeck, Schulzentrum",19,"Rullstorf, Am Neetzekanal",1,06:18:00,603897.781,5906397.555
+N17_North,N17,"Scharnebeck, Schulzentrum",20,"Neu Boltersen, Möhlenkamp",2,06:20:00,604010.757,5905649.524
+N17_North,N17,"Scharnebeck, Schulzentrum",21,"Neu Boltersen, Neumühler Weg",1,06:21:00,604539.599,5905652.105
+N17_North,N17,"Scharnebeck, Schulzentrum",22,"Boltersen, Bahnhof",1,06:22:00,604658.327,5905224.822
+N17_North,N17,"Scharnebeck, Schulzentrum",23,"Boltersen, Bahnhofstraße",2,06:24:00,604444.254,5904087.757
+N17_North,N17,"Scharnebeck, Schulzentrum",24,"Boltersen, Rullstorfer Straße",0,06:24:00,604449.516,5904011.669
+N17_North,N17,"Scharnebeck, Schulzentrum",25,"Rullstorf, Boltersener Straße",3,06:27:00,602453.46,5904916.752
+N17_North,N17,"Scharnebeck, Schulzentrum",26,"Rullstorf, Alte Dorfstraße",2,06:29:00,602632.226,5905540.982
+N17_North,N17,"Scharnebeck, Schulzentrum",27,"Rullstorf, K 2/Zum Bahnhof",1,06:30:00,601877.404,5905546.587
+N17_North,N17,"Scharnebeck, Schulzentrum",28,"Scharnebeck, Meisterstraße",2,06:32:00,600692.96,5906032.384
+N17_North,N17,"Scharnebeck, Schulzentrum",29,"Scharnebeck, Bardowicker Straße",1,06:33:00,600209.589,5906120.948
+N17_North,N17,"Scharnebeck, Schulzentrum",30,"Scharnebeck, Lübbelau",1,06:33:00,599900.474,5905994.689
+N17_North,N17,"Scharnebeck, Schulzentrum",31,"Scharnebeck, Adendorfer Straße",1,06:34:00,600027.316,5905641.517
+N17_North,N17,"Scharnebeck, Schulzentrum",32,"Scharnebeck, Lüneburger Straße",1,06:35:00,600123.924,5905267.547
+N17_North,N17,"Scharnebeck, Schulzentrum",33,"Scharnebeck, Hauptstraße",1,06:36:00,600339.778,5905715.525
+N17_North,N17,"Scharnebeck, Schulzentrum",34,"Scharnebeck, Grundschule",1,06:36:00,600615.406,5905891.393
+N17_North,N17,"Scharnebeck, Schulzentrum",35,"Scharnebeck, Hauptstraße",1,06:37:00,600339.778,5905715.525
+N17_North,N17,"Scharnebeck, Schulzentrum",36,"Scharnebeck, Adendorfer Straße",1,06:38:00,600027.316,5905641.517
+N17_North,N17,"Scharnebeck, Schulzentrum",37,"Scharnebeck, Schulzentrum",1,06:39:00,599809.175,5905562.703
+N18_North,N18,"Scharnebeck, Schulzentrum",0,"Neetze, Am Jahnstadion",0,06:11:00,608871.858,5903208.765
+N18_North,N18,"Scharnebeck, Schulzentrum",1,"Neetze, Grundschule",1,06:13:00,608570.613,5902642.991
+N18_North,N18,"Scharnebeck, Schulzentrum",2,"Neetze, Am Dorfplatz",1,06:14:00,608364.473,5903021.625
+N18_North,N18,"Scharnebeck, Schulzentrum",3,"Neetze, Am Ried",2,06:15:00,608017.507,5903912.516
+N18_North,N18,"Scharnebeck, Schulzentrum",4,"Neu Neetze, Tennisclub",3,06:18:00,607787.223,5905389.47
+N18_North,N18,"Scharnebeck, Schulzentrum",5,Neumühlen bei Rullstorf,5,06:23:00,605719.551,5905412.405
+N18_North,N18,"Scharnebeck, Schulzentrum",6,"Neu Boltersen, Neumühler Weg",2,06:25:00,604539.599,5905652.105
+N18_North,N18,"Scharnebeck, Schulzentrum",7,"Neu Boltersen, Möhlenkamp",1,06:26:00,604010.757,5905649.524
+N18_North,N18,"Scharnebeck, Schulzentrum",8,"Neu Boltersen, Neumühler Weg",1,06:26:00,604539.599,5905652.105
+N18_North,N18,"Scharnebeck, Schulzentrum",9,"Boltersen, Bahnhof",1,06:27:00,604658.327,5905224.822
+N18_North,N18,"Scharnebeck, Schulzentrum",10,"Boltersen, Bahnhofstraße",2,06:29:00,604444.254,5904087.757
+N18_North,N18,"Scharnebeck, Schulzentrum",11,"Boltersen, Rullstorfer Straße",0,06:29:00,604449.516,5904011.669
+N18_North,N18,"Scharnebeck, Schulzentrum",12,"Rullstorf, Boltersener Straße",3,06:32:00,602453.46,5904916.752
+N18_North,N18,"Scharnebeck, Schulzentrum",13,"Scharnebeck, Meisterstraße",3,06:36:00,600692.96,5906032.384
+N18_North,N18,"Scharnebeck, Schulzentrum",14,"Scharnebeck, Grundschule",0,06:36:00,600615.406,5905891.393
+N18_North,N18,"Scharnebeck, Schulzentrum",15,"Scharnebeck, Hauptstraße",1,06:37:00,600339.778,5905715.525
+N18_North,N18,"Scharnebeck, Schulzentrum",16,"Scharnebeck, Adendorfer Straße",1,06:37:00,600027.316,5905641.517
+N18_North,N18,"Scharnebeck, Schulzentrum",17,"Scharnebeck, Schulzentrum",1,06:38:00,599809.175,5905562.703
+S1_South,S1,"Bleckede, Elbtalhaus",0,"Gienau, Wiebecker Straße",0,06:59:00,611273.054,5891866.972
+S1_South,S1,"Bleckede, Elbtalhaus",1,"Gienau, Am Steckelberg",1,07:00:00,611738.91,5891782.205
+S1_South,S1,"Bleckede, Elbtalhaus",2,"Lemgrabe, Hauptstraße 32",3,07:03:00,613612.522,5892328.9
+S1_South,S1,"Bleckede, Elbtalhaus",3,"Lemgrabe, Am Hasenberg",1,07:04:00,613907.309,5892649.387
+S1_South,S1,"Bleckede, Elbtalhaus",4,"Lemgrabe, An der Kleinbahn",1,07:06:00,614516.072,5893336.318
+S1_South,S1,"Bleckede, Elbtalhaus",5,"Dahlenburg, Fliederweg",2,07:08:00,615738.724,5894187.093
+S1_South,S1,"Bleckede, Elbtalhaus",6,"Dahlenburg, Mittelfeld",2,07:10:00,615149.138,5894955.971
+S1_South,S1,"Bleckede, Elbtalhaus",7,"Riecklingen, Abzweigung",3,07:13:00,614201.539,5896537.166
+S1_South,S1,"Bleckede, Elbtalhaus",8,"Ellringen, Ellringer Neetzetal",3,07:16:00,613715.337,5898482.011
+S1_South,S1,"Bleckede, Elbtalhaus",9,"Breetze, Ziegelei",8,07:25:00,614391.311,5903764.392
+S1_South,S1,"Bleckede, Elbtalhaus",10,"Bleckede, Breetzer Straße",2,07:27:00,614994.625,5905048.081
+S1_South,S1,"Bleckede, Elbtalhaus",11,"Bleckede, Robert-Koch-Straße",1,07:28:00,615702.413,5904805.786
+S1_South,S1,"Bleckede, Elbtalhaus",12,"Bleckede, Schiedenitzweg",1,07:29:00,616115.052,5904844.631
+S1_South,S1,"Bleckede, Elbtalhaus",13,"Bleckede, Barskamper Weg",1,07:30:00,616702.42,5905085.871
+S1_South,S1,"Bleckede, Elbtalhaus",14,"Bleckede, Elbweg",0,07:30:00,616787.419,5905330.72
+S1_South,S1,"Bleckede, Elbtalhaus",15,"Bleckede, Saatbau",1,07:32:00,616003.687,5905399.718
+S1_South,S1,"Bleckede, Elbtalhaus",16,"Bleckede, Auf dem Kamp",1,07:32:00,615755.837,5905835.247
+S1_South,S1,"Bleckede, Elbtalhaus",17,Bleckede (Fähre),2,07:34:00,615605.89,5906799.72
+S1_South,S1,"Bleckede, Elbtalhaus",18,"Bleckede, Rathaus",1,07:35:00,615447.103,5906012.174
+S1_South,S1,"Bleckede, Elbtalhaus",19,"Bleckede, Schulzentrum",1,07:37:00,615426.943,5905378.684
+S1_South,S1,"Bleckede, Elbtalhaus",20,"Bleckede, Töpferdamm",2,07:39:00,614974.725,5906348.906
+S1_South,S1,"Bleckede, Elbtalhaus",21,"Bleckede, Elbtalhaus",0,07:39:00,614979.147,5906490.636
+S2_South,S2,"Bleckede, Töpferdamm",0,"Tosterglope, Siedlung",0,06:44:00,621331.466,5896837.82
+S2_South,S2,"Bleckede, Töpferdamm",1,"Nahrendorf, Tangsehler Weg",6,06:50:00,621528.569,5893273.141
+S2_South,S2,"Bleckede, Töpferdamm",2,"Nahrendorf, Im Klint",1,06:51:00,621108.569,5893119.506
+S2_South,S2,"Bleckede, Töpferdamm",3,"Nahrendorf, Mücklingen",3,06:54:00,619232.582,5893826.972
+S2_South,S2,"Bleckede, Töpferdamm",4,"Neetzendorf, Mühle",4,06:57:00,618028.866,5892602.26
+S2_South,S2,"Bleckede, Töpferdamm",5,Neetzendorf (Nord),1,06:58:00,618110.451,5891884.925
+S2_South,S2,"Bleckede, Töpferdamm",6,"Neetzendorf, Ort",1,06:59:00,617888.793,5891668.386
+S2_South,S2,"Bleckede, Töpferdamm",7,Vindorf,4,07:03:00,615108.386,5891250.476
+S2_South,S2,"Bleckede, Töpferdamm",8,"Seedorf bei Boitze, Abzweigung",2,07:05:00,614238.593,5892175.686
+S2_South,S2,"Bleckede, Töpferdamm",9,Bf. Dahlenburg,1,07:06:00,613987.398,5892535.816
+S2_South,S2,"Bleckede, Töpferdamm",10,"Lemgrabe, Am Hasenberg",0,07:06:00,613907.309,5892649.387
+S2_South,S2,"Bleckede, Töpferdamm",11,"Lemgrabe, An der Kleinbahn",1,07:08:00,614516.072,5893336.318
+S2_South,S2,"Bleckede, Töpferdamm",12,"Dahlenburg, Fliederweg",2,07:10:00,615738.724,5894187.093
+S2_South,S2,"Bleckede, Töpferdamm",13,"Dahlenburg, Markt",1,07:11:00,616403.798,5894486.685
+S2_South,S2,"Bleckede, Töpferdamm",14,"Dahlenburg, Ehrenfriedhof",1,07:12:00,615705.665,5894670.879
+S2_South,S2,"Bleckede, Töpferdamm",15,"Marienau, Drosselstraße 7",3,07:15:00,615361.564,5896097.381
+S2_South,S2,"Bleckede, Töpferdamm",16,Harmstorf bei Dahlem,6,07:21:00,617445.743,5897569.616
+S2_South,S2,"Bleckede, Töpferdamm",17,"Köstorf, Haus Nr. 6",3,07:24:00,617072.773,5899173.881
+S2_South,S2,"Bleckede, Töpferdamm",18,"Bleckede, Abzweig Köstorf",1,07:25:00,617247.08,5899639.243
+S2_South,S2,"Bleckede, Töpferdamm",19,"Barskamp, Hohe Luft",3,07:27:00,618588.595,5900624.389
+S2_South,S2,"Bleckede, Töpferdamm",20,"Barskamp, Markt",1,07:28:00,619034.125,5900916.319
+S2_South,S2,"Bleckede, Töpferdamm",21,"Barskamp, Walmsburger Straße",0,07:29:00,619135.634,5900842.4
+S2_South,S2,"Bleckede, Töpferdamm",22,"Barskamp, Markt",0,07:29:00,619034.125,5900916.319
+S2_South,S2,"Bleckede, Töpferdamm",23,"Göddingen, Am Fischteich",3,07:31:00,617716.022,5901923.989
+S2_South,S2,"Bleckede, Töpferdamm",24,"Göddingen, Wöppenberg",1,07:32:00,617475.136,5902275.876
+S2_South,S2,"Bleckede, Töpferdamm",25,"Nindorf bei Bleckede, L 222",2,07:34:00,616242.886,5902814.308
+S2_South,S2,"Bleckede, Töpferdamm",26,"Bleckede, Waldfrieden",2,07:36:00,616280.195,5903910.419
+S2_South,S2,"Bleckede, Töpferdamm",27,"Bleckede, Dahlenburger Straße",1,07:37:00,616051.578,5905008.294
+S2_South,S2,"Bleckede, Töpferdamm",28,"Bleckede, Robert-Koch-Straße",1,07:38:00,615702.413,5904805.786
+S2_South,S2,"Bleckede, Töpferdamm",29,"Bleckede, Schulzentrum",1,07:39:00,615426.943,5905378.684
+S2_South,S2,"Bleckede, Töpferdamm",30,"Bleckede, Schulzentrum",0,07:39:00,615426.943,5905378.684
+S2_South,S2,"Bleckede, Töpferdamm",31,"Bleckede, Töpferdamm",2,07:41:00,614974.725,5906348.906
+S3_South,S3,"Bleckede, Elbtalhaus",0,"Nahrendorf, Im Klint",0,06:55:00,621108.569,5893119.506
+S3_South,S3,"Bleckede, Elbtalhaus",1,"Oldendorf (Göhrde), Alte Poststraße",3,06:58:00,621055.222,5891467.279
+S3_South,S3,"Bleckede, Elbtalhaus",2,"Oldendorf (Göhrde), Eichdorfer Straße",0,06:58:00,621109.541,5891583.137
+S3_South,S3,"Bleckede, Elbtalhaus",3,Eichdorf,3,07:01:00,622596.537,5891904.66
+S3_South,S3,"Bleckede, Elbtalhaus",4,"Breese, Abzw. Göhrde Bahnhof",2,07:03:00,623763.108,5892388.574
+S3_South,S3,"Bleckede, Elbtalhaus",5,"Pommoissel, Göhrder Bahnhofstraße",1,07:04:00,624457.539,5892328.81
+S3_South,S3,"Bleckede, Elbtalhaus",6,"Pommoissel, Pommoisseler Straße",1,07:04:00,624840.202,5892118.951
+S3_South,S3,"Bleckede, Elbtalhaus",7,"Neestahl, Abzweig Tangsehl",2,07:06:00,625137.979,5892994.514
+S3_South,S3,"Bleckede, Elbtalhaus",8,"Neestahl, Kleinmoor",2,07:08:00,624562.016,5893950.146
+S3_South,S3,"Bleckede, Elbtalhaus",9,"Kovahl, Alter Rundling",1,07:08:00,624228.28,5894234.452
+S3_South,S3,"Bleckede, Elbtalhaus",10,"Ventschau, Ortsmitte",3,07:12:00,623988.81,5896253.494
+S3_South,S3,"Bleckede, Elbtalhaus",11,"Ventschau, Am Dicken Busch",1,07:12:00,623662.748,5896626.597
+S3_South,S3,"Bleckede, Elbtalhaus",12,"Köhlingen, Abzweig Köhlingen",2,07:14:00,622812.543,5897591.758
+S3_South,S3,"Bleckede, Elbtalhaus",13,"Katemin, Bäckerweg",5,07:20:00,625140.212,5899747.398
+S3_South,S3,"Bleckede, Elbtalhaus",14,"Reeßeln, Abzweigung",1,07:21:00,624215.495,5900077.117
+S3_South,S3,"Bleckede, Elbtalhaus",15,"Walmsburg, Bruchdorfer Straße",1,07:23:00,623370.28,5900455.28
+S3_South,S3,"Bleckede, Elbtalhaus",16,"Walmsburg, Kateminer Straße",1,07:23:00,623038.863,5900453.572
+S3_South,S3,"Bleckede, Elbtalhaus",17,"Alt Garge, Waldbad",6,07:29:00,620363.493,5902498.806
+S3_South,S3,"Bleckede, Elbtalhaus",18,"Alt Garge, Hauptstraße",2,07:31:00,620201.994,5903267.864
+S3_South,S3,"Bleckede, Elbtalhaus",19,"Alt Garge, Bahnhof",1,07:31:00,619634.313,5903377.694
+S3_South,S3,"Bleckede, Elbtalhaus",20,"Bleckede, Brennbusch",5,07:36:00,617006.804,5905047.379
+S3_South,S3,"Bleckede, Elbtalhaus",21,"Bleckede, Elbweg",1,07:37:00,616787.419,5905330.72
+S3_South,S3,"Bleckede, Elbtalhaus",22,"Bleckede, Saatbau",1,07:38:00,616003.687,5905399.718
+S3_South,S3,"Bleckede, Elbtalhaus",23,"Bleckede, Schulzentrum",2,07:40:00,615426.943,5905378.684
+S3_South,S3,"Bleckede, Elbtalhaus",24,"Bleckede, Schulzentrum",0,07:40:00,615426.943,5905378.684
+S3_South,S3,"Bleckede, Elbtalhaus",25,"Bleckede, Töpferdamm",2,07:42:00,614974.725,5906348.906
+S3_South,S3,"Bleckede, Elbtalhaus",26,"Bleckede, Elbtalhaus",0,07:42:00,614979.147,5906490.636
+S4_South,S4,"Dahlenburg, Schulzentrum",0,"Bleckede, Lüneburger Straße",0,05:57:00,615241.052,5905738.745
+S4_South,S4,"Dahlenburg, Schulzentrum",1,"Bleckede, Breetzer Straße",1,05:58:00,614994.625,5905048.081
+S4_South,S4,"Dahlenburg, Schulzentrum",2,"Breetze, Bokelstraße",3,06:01:00,614013.195,5903075.93
+S4_South,S4,"Dahlenburg, Schulzentrum",3,"Breetze, Görgenweg",1,06:02:00,614502.461,5903342.464
+S4_South,S4,"Dahlenburg, Schulzentrum",4,"Nindorf bei Bleckede, L 222",3,06:05:00,616242.886,5902814.308
+S4_South,S4,"Dahlenburg, Schulzentrum",5,"Göddingen, Wöppenberg",2,06:07:00,617475.136,5902275.876
+S4_South,S4,"Dahlenburg, Schulzentrum",6,"Göddingen, Am Fischteich",1,06:08:00,617716.022,5901923.989
+S4_South,S4,"Dahlenburg, Schulzentrum",7,"Barskamp, Markt",3,06:10:00,619034.125,5900916.319
+S4_South,S4,"Dahlenburg, Schulzentrum",8,"Barskamp, Walmsburger Straße",0,06:11:00,619135.634,5900842.4
+S4_South,S4,"Dahlenburg, Schulzentrum",9,"Barskamp, Markt",0,06:11:00,619034.125,5900916.319
+S4_South,S4,"Dahlenburg, Schulzentrum",10,"Barskamp, Hohe Luft",1,06:12:00,618588.595,5900624.389
+S4_South,S4,"Dahlenburg, Schulzentrum",11,"Bleckede, Abzweig Köstorf",3,06:14:00,617247.08,5899639.243
+S4_South,S4,"Dahlenburg, Schulzentrum",12,Harmstorf bei Dahlem,4,06:18:00,617445.743,5897569.616
+S4_South,S4,"Dahlenburg, Schulzentrum",13,"Marienau, Gymnasium",6,06:23:00,615241.737,5896318.515
+S4_South,S4,"Dahlenburg, Schulzentrum",14,"Marienau, Drosselstraße 7",0,06:24:00,615361.564,5896097.381
+S4_South,S4,"Dahlenburg, Schulzentrum",15,"Riecklingen, Abzweigung",3,06:27:00,614201.539,5896537.166
+S4_South,S4,"Dahlenburg, Schulzentrum",16,"Ellringen, Ellringer Neetzetal",3,06:30:00,613715.337,5898482.011
+S4_South,S4,"Dahlenburg, Schulzentrum",17,"Wiecheln, Abzweig K 26",3,06:33:00,611936.375,5898507.809
+S4_South,S4,"Dahlenburg, Schulzentrum",18,"Thomasburg, Im Winkel",3,06:36:00,610546.531,5899502.677
+S4_South,S4,"Dahlenburg, Schulzentrum",19,"Thomasburg, Radenbecker Weg",1,06:37:00,610399.673,5899091.926
+S4_South,S4,"Dahlenburg, Schulzentrum",20,"Radenbeck, Im Siek",4,06:41:00,608594.585,5897740.9
+S4_South,S4,"Dahlenburg, Schulzentrum",21,"Bavendorf, Mitte/B 216",5,06:45:00,609411.232,5895466.418
+S4_South,S4,"Dahlenburg, Schulzentrum",22,"Bavendorf, Im Dorfe",0,06:46:00,609518.073,5895312.939
+S4_South,S4,"Dahlenburg, Schulzentrum",23,"Dahlenburg, Abzweig Sommerbeck",4,06:50:00,612151.244,5894712.378
+S4_South,S4,"Dahlenburg, Schulzentrum",24,"Dahlenburg, Abzweigung Dumstorf",2,06:52:00,613453.513,5894672.471
+S4_South,S4,"Dahlenburg, Schulzentrum",25,"Dahlenburg, Ehrenfriedhof",3,06:55:00,615705.665,5894670.879
+S4_South,S4,"Dahlenburg, Schulzentrum",26,"Dahlenburg, Markt",1,06:57:00,616403.798,5894486.685
+S4_South,S4,"Dahlenburg, Schulzentrum",27,"Dahlenburg, Fliederweg",1,06:58:00,615738.724,5894187.093
+S4_South,S4,"Dahlenburg, Schulzentrum",28,"Dahlenburg, Grundschule",1,06:59:00,616384.901,5894604.254
+S4_South,S4,"Dahlenburg, Schulzentrum",29,"Dahlenburg, Schulzentrum",1,07:01:00,616784.832,5894141.892
+S5_South,S5,"Marienau, Gymnasium",0,"Süschendorf, Kreuzung",0,05:59:00,618984.701,5892784.082
+S5_South,S5,"Marienau, Gymnasium",1,"Dahlenburg, Buendorf",4,06:03:00,617067.134,5894221.587
+S5_South,S5,"Marienau, Gymnasium",2,"Dahlenburg, Markt",1,06:04:00,616403.798,5894486.685
+S5_South,S5,"Marienau, Gymnasium",3,"Dahlenburg, Ehrenfriedhof",1,06:05:00,615705.665,5894670.879
+S5_South,S5,"Marienau, Gymnasium",4,"Dahlenburg, Abzweigung Dumstorf",3,06:09:00,613453.513,5894672.471
+S5_South,S5,"Marienau, Gymnasium",5,Birkenhof,1,06:10:00,613429.501,5895565.541
+S5_South,S5,"Marienau, Gymnasium",6,Klein Sommerbeck 15,2,06:12:00,612123.663,5895997.487
+S5_South,S5,"Marienau, Gymnasium",7,Birkenhof,2,06:15:00,613429.501,5895565.541
+S5_South,S5,"Marienau, Gymnasium",8,"Dumstorf, Am Kirchkamp",3,06:18:00,613372.571,5893520.04
+S5_South,S5,"Marienau, Gymnasium",9,"Lemgrabe, Am Hasenberg",2,06:19:00,613907.309,5892649.387
+S5_South,S5,"Marienau, Gymnasium",10,"Lemgrabe, Hauptstraße 32",1,06:20:00,613612.522,5892328.9
+S5_South,S5,"Marienau, Gymnasium",11,"Gienau, Am Steckelberg",3,06:24:00,611738.91,5891782.205
+S5_South,S5,"Marienau, Gymnasium",12,"Gienau, Wiebecker Straße",1,06:24:00,611273.054,5891866.972
+S5_South,S5,"Marienau, Gymnasium",13,Becklingen,3,06:27:00,609557.863,5892265.893
+S5_South,S5,"Marienau, Gymnasium",14,"Bohndorf, Im Dorfe",2,06:29:00,609097.198,5893348.474
+S5_South,S5,"Marienau, Gymnasium",15,Bavendorf Bahnhof,2,06:31:00,608880.713,5894366.873
+S5_South,S5,"Marienau, Gymnasium",16,"Bavendorf, Im Dorfe",2,06:33:00,609518.073,5895312.939
+S5_South,S5,"Marienau, Gymnasium",17,"Bavendorf, Mitte/B 216",0,06:33:00,609411.232,5895466.418
+S5_South,S5,"Marienau, Gymnasium",18,"Radenbeck, Im Siek",5,06:38:00,608594.585,5897740.9
+S5_South,S5,"Marienau, Gymnasium",19,"Radenbeck, Dorfstraße",1,06:39:00,608826.936,5898483.346
+S5_South,S5,"Marienau, Gymnasium",20,"Thomasburg, Radenbecker Weg",3,06:42:00,610399.673,5899091.926
+S5_South,S5,"Marienau, Gymnasium",21,"Wiecheln, Abzweig K 26",3,06:45:00,611936.375,5898507.809
+S5_South,S5,"Marienau, Gymnasium",22,"Ellringen, Kettelberg",3,06:47:00,613755.882,5898788.082
+S5_South,S5,"Marienau, Gymnasium",23,"Ellringen, Ellringer Neetzetal",1,06:48:00,613715.337,5898482.011
+S5_South,S5,"Marienau, Gymnasium",24,"Riecklingen, Abzweigung",3,06:51:00,614201.539,5896537.166
+S5_South,S5,"Marienau, Gymnasium",25,"Dahlenburg, Mittelfeld",3,06:54:00,615149.138,5894955.971
+S5_South,S5,"Marienau, Gymnasium",26,"Dahlenburg, Grundschule",2,06:56:00,616384.901,5894604.254
+S5_South,S5,"Marienau, Gymnasium",27,"Dahlenburg, Schulzentrum",1,06:57:00,616784.832,5894141.892
+S5_South,S5,"Marienau, Gymnasium",28,"Dahlenburg, Markt",1,06:58:00,616403.798,5894486.685
+S5_South,S5,"Marienau, Gymnasium",29,"Marienau, Drosselstraße 7",3,07:01:00,615361.564,5896097.381
+S5_South,S5,"Marienau, Gymnasium",30,"Marienau, Gymnasium",0,07:01:00,615241.737,5896318.515
+S6_South,S6,"Marienau, Gymnasium",0,"Lemgrabe, An der Kleinbahn",0,06:13:00,614516.072,5893336.318
+S6_South,S6,"Marienau, Gymnasium",1,"Lemgrabe, Am Hasenberg",1,06:14:00,613907.309,5892649.387
+S6_South,S6,"Marienau, Gymnasium",2,Bf. Dahlenburg,0,06:14:00,613987.398,5892535.816
+S6_South,S6,"Marienau, Gymnasium",3,"Seedorf bei Boitze, Abzweigung",1,06:15:00,614238.593,5892175.686
+S6_South,S6,"Marienau, Gymnasium",4,"Seedorf bei Boitze, Ort",1,06:16:00,614813.074,5891933.084
+S6_South,S6,"Marienau, Gymnasium",5,Vindorf,2,06:18:00,615108.386,5891250.476
+S6_South,S6,"Marienau, Gymnasium",6,Boitze,4,06:22:00,616835.221,5890281.651
+S6_South,S6,"Marienau, Gymnasium",7,"Neetzendorf, Ort",3,06:25:00,617888.793,5891668.386
+S6_South,S6,"Marienau, Gymnasium",8,Neetzendorf (Nord),1,06:25:00,618110.451,5891884.925
+S6_South,S6,"Marienau, Gymnasium",9,"Neetzendorf, Mühle",1,06:26:00,618028.866,5892602.26
+S6_South,S6,"Marienau, Gymnasium",10,"Nahrendorf, Mücklingen",4,06:30:00,619232.582,5893826.972
+S6_South,S6,"Marienau, Gymnasium",11,"Nahrendorf, Im Klint",3,06:33:00,621108.569,5893119.506
+S6_South,S6,"Marienau, Gymnasium",12,"Nahrendorf, Tangsehler Weg",1,06:34:00,621528.569,5893273.141
+S6_South,S6,"Marienau, Gymnasium",13,"Kovahl, Alter Rundling",4,06:39:00,624228.28,5894234.452
+S6_South,S6,"Marienau, Gymnasium",14,"Ventschau, Ortsmitte",3,06:42:00,623988.81,5896253.494
+S6_South,S6,"Marienau, Gymnasium",15,"Ventschau, Am Dicken Busch",1,06:43:00,623662.748,5896626.597
+S6_South,S6,"Marienau, Gymnasium",16,"Tosterglope, Neuhauser Straße",4,06:46:00,621742.537,5897139.832
+S6_South,S6,"Marienau, Gymnasium",17,"Tosterglope, Siedlung",1,06:47:00,621331.466,5896837.82
+S6_South,S6,"Marienau, Gymnasium",18,"Tosterglope, Gut Horndorf",3,06:50:00,619915.584,5895690.352
+S6_South,S6,"Marienau, Gymnasium",19,"Dahlenburg, Quickborn",5,06:55:00,617128.578,5894419.709
+S6_South,S6,"Marienau, Gymnasium",20,"Dahlenburg, Grundschule",1,06:56:00,616384.901,5894604.254
+S6_South,S6,"Marienau, Gymnasium",21,"Dahlenburg, Schulzentrum",1,06:57:00,616784.832,5894141.892
+S6_South,S6,"Marienau, Gymnasium",22,"Dahlenburg, Markt",1,06:58:00,616403.798,5894486.685
+S6_South,S6,"Marienau, Gymnasium",23,"Marienau, Drosselstraße 7",3,07:01:00,615361.564,5896097.381
+S6_South,S6,"Marienau, Gymnasium",24,"Marienau, Gymnasium",0,07:02:00,615241.737,5896318.515
+S7_South,S7,"Dahlenburg, Schulzentrum",0,"Bleckede, Elbtalhaus",0,06:04:00,614979.147,5906490.636
+S7_South,S7,"Dahlenburg, Schulzentrum",1,"Bleckede, Rathaus",1,06:06:00,615447.103,5906012.174
+S7_South,S7,"Dahlenburg, Schulzentrum",2,"Bleckede, Lüneburger Straße",1,06:06:00,615241.052,5905738.745
+S7_South,S7,"Dahlenburg, Schulzentrum",3,"Bleckede, Schulzentrum",1,06:07:00,615426.943,5905378.684
+S7_South,S7,"Dahlenburg, Schulzentrum",4,"Bleckede, Robert-Koch-Straße",1,06:08:00,615702.413,5904805.786
+S7_South,S7,"Dahlenburg, Schulzentrum",5,"Bleckede, Schiedenitzweg",1,06:09:00,616115.052,5904844.631
+S7_South,S7,"Dahlenburg, Schulzentrum",6,"Bleckede, Barskamper Weg",1,06:10:00,616702.42,5905085.871
+S7_South,S7,"Dahlenburg, Schulzentrum",7,"Bleckede, Brennbusch",1,06:10:00,617006.804,5905047.379
+S7_South,S7,"Dahlenburg, Schulzentrum",8,"Alt Garge, Bahnhof",5,06:15:00,619634.313,5903377.694
+S7_South,S7,"Dahlenburg, Schulzentrum",9,"Alt Garge, Hauptstraße",1,06:16:00,620201.994,5903267.864
+S7_South,S7,"Dahlenburg, Schulzentrum",10,"Alt Garge, Waldbad",2,06:17:00,620363.493,5902498.806
+S7_South,S7,"Dahlenburg, Schulzentrum",11,"Walmsburg, Bruchdorfer Straße",6,06:24:00,623370.28,5900455.28
+S7_South,S7,"Dahlenburg, Schulzentrum",12,"Walmsburg, Kateminer Straße",1,06:24:00,623038.863,5900453.572
+S7_South,S7,"Dahlenburg, Schulzentrum",13,"Tosterglope, Siedlung",7,06:31:00,621331.466,5896837.82
+S7_South,S7,"Dahlenburg, Schulzentrum",14,"Tosterglope, Neuhauser Straße",1,06:32:00,621742.537,5897139.832
+S7_South,S7,"Dahlenburg, Schulzentrum",15,"Ventschau, Am Dicken Busch",4,06:36:00,623662.748,5896626.597
+S7_South,S7,"Dahlenburg, Schulzentrum",16,"Ventschau, Ortsmitte",1,06:37:00,623988.81,5896253.494
+S7_South,S7,"Dahlenburg, Schulzentrum",17,"Kovahl, Alter Rundling",3,06:40:00,624228.28,5894234.452
+S7_South,S7,"Dahlenburg, Schulzentrum",18,"Neestahl, Kleinmoor",1,06:40:00,624562.016,5893950.146
+S7_South,S7,"Dahlenburg, Schulzentrum",19,"Neestahl, Abzweig Tangsehl",2,06:42:00,625137.979,5892994.514
+S7_South,S7,"Dahlenburg, Schulzentrum",20,"Pommoissel, Pommoisseler Straße",2,06:44:00,624840.202,5892118.951
+S7_South,S7,"Dahlenburg, Schulzentrum",21,"Pommoissel, Göhrder Bahnhofstraße",1,06:44:00,624457.539,5892328.81
+S7_South,S7,"Dahlenburg, Schulzentrum",22,"Breese, Abzw. Göhrde Bahnhof",1,06:46:00,623763.108,5892388.574
+S7_South,S7,"Dahlenburg, Schulzentrum",23,"Nahrendorf, Tangsehler Weg",5,06:50:00,621528.569,5893273.141
+S7_South,S7,"Dahlenburg, Schulzentrum",24,"Nahrendorf, Im Klint",1,06:51:00,621108.569,5893119.506
+S7_South,S7,"Dahlenburg, Schulzentrum",25,"Nahrendorf, Mücklingen",3,06:54:00,619232.582,5893826.972
+S7_South,S7,"Dahlenburg, Schulzentrum",26,"Dahlenburg, Buendorf",4,06:58:00,617067.134,5894221.587
+S7_South,S7,"Dahlenburg, Schulzentrum",27,"Dahlenburg, Quickborn",0,06:58:00,617128.578,5894419.709
+S7_South,S7,"Dahlenburg, Schulzentrum",28,"Dahlenburg, Grundschule",1,07:00:00,616384.901,5894604.254
+S7_South,S7,"Dahlenburg, Schulzentrum",29,"Dahlenburg, Schulzentrum",1,07:01:00,616784.832,5894141.892
+S8_South,S8,"Dahlenburg, Grundschule",0,"Lemgrabe, An der Kleinbahn",0,06:16:00,614516.072,5893336.318
+S8_South,S8,"Dahlenburg, Grundschule",1,"Dahlenburg, Fliederweg",2,06:18:00,615738.724,5894187.093
+S8_South,S8,"Dahlenburg, Grundschule",2,"Dahlenburg, Ehrenfriedhof",1,06:19:00,615705.665,5894670.879
+S8_South,S8,"Dahlenburg, Grundschule",3,"Dahlenburg, Markt",1,06:20:00,616403.798,5894486.685
+S8_South,S8,"Dahlenburg, Grundschule",4,"Dahlenburg, Buendorf",1,06:21:00,617067.134,5894221.587
+S8_South,S8,"Dahlenburg, Grundschule",5,"Süschendorf, Kreuzung",4,06:25:00,618984.701,5892784.082
+S8_South,S8,"Dahlenburg, Grundschule",6,"Oldendorf (Göhrde), Alte Poststraße",4,06:29:00,621055.222,5891467.279
+S8_South,S8,"Dahlenburg, Grundschule",7,Lüben,5,06:34:00,624051.254,5891371.248
+S8_South,S8,"Dahlenburg, Grundschule",8,"Pommoissel, Pommoisseler Straße",2,06:36:00,624840.202,5892118.951
+S8_South,S8,"Dahlenburg, Grundschule",9,"Neestahl, Abzweig Tangsehl",2,06:37:00,625137.979,5892994.514
+S8_South,S8,"Dahlenburg, Grundschule",10,"Neestahl, Kleinmoor",2,06:39:00,624562.016,5893950.146
+S8_South,S8,"Dahlenburg, Grundschule",11,"Kovahl, Alter Rundling",1,06:40:00,624228.28,5894234.452
+S8_South,S8,"Dahlenburg, Grundschule",12,"Ventschau, Ortsmitte",3,06:43:00,623988.81,5896253.494
+S8_South,S8,"Dahlenburg, Grundschule",13,"Ventschau, Am Dicken Busch",1,06:44:00,623662.748,5896626.597
+S8_South,S8,"Dahlenburg, Grundschule",14,"Tosterglope, Neuhauser Straße",4,06:48:00,621742.537,5897139.832
+S8_South,S8,"Dahlenburg, Grundschule",15,"Tosterglope, Siedlung",1,06:48:00,621331.466,5896837.82
+S8_South,S8,"Dahlenburg, Grundschule",16,"Tosterglope, Gut Horndorf",3,06:51:00,619915.584,5895690.352
+S8_South,S8,"Dahlenburg, Grundschule",17,"Dahlenburg, Quickborn",5,06:56:00,617128.578,5894419.709
+S8_South,S8,"Dahlenburg, Grundschule",18,"Dahlenburg, Schulzentrum",1,06:57:00,616784.832,5894141.892
+S8_South,S8,"Dahlenburg, Grundschule",19,"Dahlenburg, Grundschule",1,06:58:00,616384.901,5894604.254
+S9_South,S9,"Dahlenburg, Schulzentrum",0,"Bleckede, Elbtalhaus",0,06:11:00,614979.147,5906490.636
+S9_South,S9,"Dahlenburg, Schulzentrum",1,"Bleckede, Rathaus",1,06:12:00,615447.103,5906012.174
+S9_South,S9,"Dahlenburg, Schulzentrum",2,"Bleckede, Lüneburger Straße",1,06:12:00,615241.052,5905738.745
+S9_South,S9,"Dahlenburg, Schulzentrum",3,"Bleckede, Sandfeld",1,06:13:00,614804.879,5905403.116
+S9_South,S9,"Dahlenburg, Schulzentrum",4,"Bleckede, Lüneburger Straße",1,06:14:00,615241.052,5905738.745
+S9_South,S9,"Dahlenburg, Schulzentrum",5,"Bleckede, Schulzentrum",1,06:15:00,615426.943,5905378.684
+S9_South,S9,"Dahlenburg, Schulzentrum",6,"Bleckede, Robert-Koch-Straße",1,06:16:00,615702.413,5904805.786
+S9_South,S9,"Dahlenburg, Schulzentrum",7,"Bleckede, Dahlenburger Straße",1,06:16:00,616051.578,5905008.294
+S9_South,S9,"Dahlenburg, Schulzentrum",8,"Bleckede, Schiedenitzweg",0,06:17:00,616115.052,5904844.631
+S9_South,S9,"Dahlenburg, Schulzentrum",9,"Bleckede, Barskamper Weg",1,06:18:00,616702.42,5905085.871
+S9_South,S9,"Dahlenburg, Schulzentrum",10,"Bleckede, Elbweg",0,06:18:00,616787.419,5905330.72
+S9_South,S9,"Dahlenburg, Schulzentrum",11,"Bleckede, Brennbusch",1,06:19:00,617006.804,5905047.379
+S9_South,S9,"Dahlenburg, Schulzentrum",12,"Alt Garge, Bahnhof",5,06:23:00,619634.313,5903377.694
+S9_South,S9,"Dahlenburg, Schulzentrum",13,"Alt Garge, Hauptstraße",1,06:24:00,620201.994,5903267.864
+S9_South,S9,"Dahlenburg, Schulzentrum",14,"Barskamp, Walmsburger Straße",5,06:29:00,619135.634,5900842.4
+S9_South,S9,"Dahlenburg, Schulzentrum",15,"Barskamp, Markt",0,06:29:00,619034.125,5900916.319
+S9_South,S9,"Dahlenburg, Schulzentrum",16,"Barskamp, Hohe Luft",1,06:30:00,618588.595,5900624.389
+S9_South,S9,"Dahlenburg, Schulzentrum",17,"Bleckede, Abzweig Köstorf",3,06:33:00,617247.08,5899639.243
+S9_South,S9,"Dahlenburg, Schulzentrum",18,"Köstorf, Haus Nr. 6",1,06:34:00,617072.773,5899173.881
+S9_South,S9,"Dahlenburg, Schulzentrum",19,Harmstorf bei Dahlem,3,06:37:00,617445.743,5897569.616
+S9_South,S9,"Dahlenburg, Schulzentrum",20,"Dahlem, Steinweg",3,06:39:00,616753.721,5896307.06
+S9_South,S9,"Dahlenburg, Schulzentrum",21,"Marienau, Drosselstraße 7",4,06:43:00,615361.564,5896097.381
+S9_South,S9,"Dahlenburg, Schulzentrum",22,"Riecklingen, Abzweigung",3,06:46:00,614201.539,5896537.166
+S9_South,S9,"Dahlenburg, Schulzentrum",23,"Ellringen, Ellringer Neetzetal",3,06:49:00,613715.337,5898482.011
+S9_South,S9,"Dahlenburg, Schulzentrum",24,"Ellringen, Kettelberg",1,06:49:00,613755.882,5898788.082
+S9_South,S9,"Dahlenburg, Schulzentrum",25,"Ellringen, Ellringer Neetzetal",1,06:50:00,613715.337,5898482.011
+S9_South,S9,"Dahlenburg, Schulzentrum",26,"Riecklingen, Abzweigung",3,06:53:00,614201.539,5896537.166
+S9_South,S9,"Dahlenburg, Schulzentrum",27,"Marienau, Gymnasium",2,06:56:00,615241.737,5896318.515
+S9_South,S9,"Dahlenburg, Schulzentrum",28,"Marienau, Drosselstraße 7",0,06:56:00,615361.564,5896097.381
+S9_South,S9,"Dahlenburg, Schulzentrum",29,"Dahlenburg, Grundschule",3,06:59:00,616384.901,5894604.254
+S9_South,S9,"Dahlenburg, Schulzentrum",30,"Dahlenburg, Schulzentrum",1,07:00:00,616784.832,5894141.892
+S10_South,S10,"Barskamp, Grundschule",0,"Walmsburg, Bruchdorfer Straße",0,07:30:00,623370.28,5900455.28
+S10_South,S10,"Barskamp, Grundschule",1,"Reeßeln, Abzweigung",1,07:31:00,624215.495,5900077.117
+S10_South,S10,"Barskamp, Grundschule",2,"Walmsburg, Bruchdorfer Straße",1,07:33:00,623370.28,5900455.28
+S10_South,S10,"Barskamp, Grundschule",3,"Alt Garge, Waldbad",6,07:39:00,620363.493,5902498.806
+S10_South,S10,"Barskamp, Grundschule",4,"Alt Garge, Hauptstraße",2,07:40:00,620201.994,5903267.864
+S10_South,S10,"Barskamp, Grundschule",5,"Alt Garge, Bahnhof",1,07:41:00,619634.313,5903377.694
+S10_South,S10,"Barskamp, Grundschule",6,"Alt Garge, Hauptstraße",1,07:42:00,620201.994,5903267.864
+S10_South,S10,"Barskamp, Grundschule",7,"Barskamp, Markt",5,07:47:00,619034.125,5900916.319
+S10_South,S10,"Barskamp, Grundschule",8,"Barskamp, Grundschule",1,07:48:00,618381.722,5900677.53
+S11_South,S11,"Bleckede, Elbtalhaus",0,Klein Sommerbeck 15,0,07:04:00,612123.663,5895997.487
+S11_South,S11,"Bleckede, Elbtalhaus",1,"Dahlenburg, Abzweig Sommerbeck",3,07:07:00,612151.244,5894712.378
+S11_South,S11,"Bleckede, Elbtalhaus",2,"Eimstorf, Ort",1,07:08:00,612441.949,5894305.682
+S11_South,S11,"Bleckede, Elbtalhaus",3,"Dahlenburg, Abzweig Sommerbeck",1,07:09:00,612151.244,5894712.378
+S11_South,S11,"Bleckede, Elbtalhaus",4,"Bavendorf, Im Dorfe",4,07:13:00,609518.073,5895312.939
+S11_South,S11,"Bleckede, Elbtalhaus",5,"Bavendorf, Mitte/B 216",0,07:14:00,609411.232,5895466.418
+S11_South,S11,"Bleckede, Elbtalhaus",6,"Radenbeck, Im Siek",5,07:18:00,608594.585,5897740.9
+S11_South,S11,"Bleckede, Elbtalhaus",7,"Radenbeck, Linnenkamp",1,07:19:00,608675.63,5898147.417
+S11_South,S11,"Bleckede, Elbtalhaus",8,"Radenbeck, Dorfstraße",1,07:20:00,608826.936,5898483.346
+S11_South,S11,"Bleckede, Elbtalhaus",9,"Thomasburg, Radenbecker Weg",3,07:23:00,610399.673,5899091.926
+S11_South,S11,"Bleckede, Elbtalhaus",10,"Thomasburg, Im Winkel",1,07:24:00,610546.531,5899502.677
+S11_South,S11,"Bleckede, Elbtalhaus",11,"Wiecheln, Abzweig K 26",3,07:27:00,611936.375,5898507.809
+S11_South,S11,"Bleckede, Elbtalhaus",12,"Breetze, Bokelstraße",9,07:36:00,614013.195,5903075.93
+S11_South,S11,"Bleckede, Elbtalhaus",13,"Bleckede, Breetzer Straße",3,07:39:00,614994.625,5905048.081
+S11_South,S11,"Bleckede, Elbtalhaus",14,"Bleckede, Schulzentrum",1,07:41:00,615426.943,5905378.684
+S11_South,S11,"Bleckede, Elbtalhaus",15,"Bleckede, Töpferdamm",2,07:43:00,614974.725,5906348.906
+S11_South,S11,"Bleckede, Elbtalhaus",16,"Bleckede, Elbtalhaus",0,07:43:00,614979.147,5906490.636
+S12_South,S12,"Barskamp, Grundschule",0,"Göddingen, Wöppenberg",0,07:34:00,617475.136,5902275.876
+S12_South,S12,"Barskamp, Grundschule",1,"Göddingen, Am Fischteich",1,07:34:00,617716.022,5901923.989
+S12_South,S12,"Barskamp, Grundschule",2,"Alt Garge, Bahnhof",4,07:39:00,619634.313,5903377.694
+S12_South,S12,"Barskamp, Grundschule",3,"Alt Garge, Turnhalle",0,07:39:00,619923.52,5903295.492
+S12_South,S12,"Barskamp, Grundschule",4,"Alt Garge, Hauptstraße",0,07:40:00,620201.994,5903267.864
+S12_South,S12,"Barskamp, Grundschule",5,"Alt Garge, Waldbad",2,07:41:00,620363.493,5902498.806
+S12_South,S12,"Barskamp, Grundschule",6,"Walmsburg, Kateminer Straße",6,07:47:00,623038.863,5900453.572
+S12_South,S12,"Barskamp, Grundschule",7,"Walmsburg, Bruchdorfer Straße",1,07:47:00,623370.28,5900455.28
+S12_South,S12,"Barskamp, Grundschule",8,"Walmsburg, Kateminer Straße",1,07:48:00,623038.863,5900453.572
+S12_South,S12,"Barskamp, Grundschule",9,"Barskamp, Walmsburger Straße",7,07:55:00,619135.634,5900842.4
+S12_South,S12,"Barskamp, Grundschule",10,"Barskamp, Markt",0,07:55:00,619034.125,5900916.319
+S12_South,S12,"Barskamp, Grundschule",11,"Barskamp, Grundschule",1,07:56:00,618381.722,5900677.53
+S13_South,S13,Nieperfitz,0,"Bleckede, Elbweg",0,07:30:00,616787.419,5905330.72
+S13_South,S13,Nieperfitz,1,"Bleckede, Barskamper Weg",0,07:30:00,616702.42,5905085.871
+S13_South,S13,Nieperfitz,2,"Bleckede, Schiedenitzweg",1,07:31:00,616115.052,5904844.631
+S13_South,S13,Nieperfitz,3,"Bleckede, Dahlenburger Straße",0,07:31:00,616051.578,5905008.294
+S13_South,S13,Nieperfitz,4,"Bleckede, Waldfrieden",1,07:33:00,616280.195,5903910.419
+S13_South,S13,Nieperfitz,5,"Nindorf bei Bleckede, L 222",2,07:34:00,616242.886,5902814.308
+S13_South,S13,Nieperfitz,6,"Göddingen, Wöppenberg",2,07:36:00,617475.136,5902275.876
+S13_South,S13,Nieperfitz,7,"Göddingen, Am Fischteich",1,07:37:00,617716.022,5901923.989
+S13_South,S13,Nieperfitz,8,"Barskamp, Markt",3,07:40:00,619034.125,5900916.319
+S13_South,S13,Nieperfitz,9,"Barskamp, Walmsburger Straße",0,07:40:00,619135.634,5900842.4
+S13_South,S13,Nieperfitz,10,"Tosterglope, Neuhauser Straße",7,07:47:00,621742.537,5897139.832
+S13_South,S13,Nieperfitz,11,"Ventschau, Am Dicken Busch",4,07:51:00,623662.748,5896626.597
+S13_South,S13,Nieperfitz,12,"Ventschau, Ortsmitte",1,07:51:00,623988.81,5896253.494
+S13_South,S13,Nieperfitz,13,"Kovahl, Alter Rundling",3,07:55:00,624228.28,5894234.452
+S13_South,S13,Nieperfitz,14,"Neestahl, Kleinmoor",1,07:55:00,624562.016,5893950.146
+S13_South,S13,Nieperfitz,15,"Neestahl, Abzweig Tangsehl",2,07:57:00,625137.979,5892994.514
+S13_South,S13,Nieperfitz,16,"Pommoissel, Pommoisseler Straße",2,07:59:00,624840.202,5892118.951
+S13_South,S13,Nieperfitz,17,Nieperfitz,2,08:01:00,625796.964,5891468.053
+S14_South,S14,Nieperfitz,0,"Dahlem, Steinweg",0,07:22:00,616753.721,5896307.06
+S14_South,S14,Nieperfitz,1,Harmstorf bei Dahlem,3,07:25:00,617445.743,5897569.616
+S14_South,S14,Nieperfitz,2,"Dahlenburg, Grundschule",6,07:30:00,616384.901,5894604.254
+S14_South,S14,Nieperfitz,3,"Dahlenburg, Fliederweg",1,07:32:00,615738.724,5894187.093
+S14_South,S14,Nieperfitz,4,"Lemgrabe, An der Kleinbahn",2,07:34:00,614516.072,5893336.318
+S14_South,S14,Nieperfitz,5,"Lemgrabe, Am Hasenberg",1,07:36:00,613907.309,5892649.387
+S14_South,S14,Nieperfitz,6,Bf. Dahlenburg,0,07:36:00,613987.398,5892535.816
+S14_South,S14,Nieperfitz,7,"Seedorf bei Boitze, Abzweigung",1,07:36:00,614238.593,5892175.686
+S14_South,S14,Nieperfitz,8,"Seedorf bei Boitze, Ort",1,07:37:00,614813.074,5891933.084
+S14_South,S14,Nieperfitz,9,"Seedorf bei Boitze, Abzweigung",1,07:38:00,614238.593,5892175.686
+S14_South,S14,Nieperfitz,10,Bf. Dahlenburg,1,07:39:00,613987.398,5892535.816
+S14_South,S14,Nieperfitz,11,"Lemgrabe, Am Hasenberg",0,07:39:00,613907.309,5892649.387
+S14_South,S14,Nieperfitz,12,"Lemgrabe, An der Kleinbahn",1,07:41:00,614516.072,5893336.318
+S14_South,S14,Nieperfitz,13,"Dahlenburg, Fliederweg",2,07:43:00,615738.724,5894187.093
+S14_South,S14,Nieperfitz,14,"Dahlenburg, Buendorf",2,07:45:00,617067.134,5894221.587
+S14_South,S14,Nieperfitz,15,"Nahrendorf, Mücklingen",4,07:49:00,619232.582,5893826.972
+S14_South,S14,Nieperfitz,16,"Nahrendorf, Im Klint",3,07:52:00,621108.569,5893119.506
+S14_South,S14,Nieperfitz,17,"Nahrendorf, Tangsehler Weg",1,07:53:00,621528.569,5893273.141
+S14_South,S14,Nieperfitz,18,"Breese, Abzw. Göhrde Bahnhof",5,07:58:00,623763.108,5892388.574
+S14_South,S14,Nieperfitz,19,"Pommoissel, Göhrder Bahnhofstraße",1,07:59:00,624457.539,5892328.81
+S14_South,S14,Nieperfitz,20,"Pommoissel, Pommoisseler Straße",1,07:59:00,624840.202,5892118.951
+S14_South,S14,Nieperfitz,21,Nieperfitz,2,08:01:00,625796.964,5891468.053
+S15_South,S15,"Bleckede, Töpferdamm",0,"Dahlenburg, Schulzentrum",0,07:16:00,616784.832,5894141.892
+S15_South,S15,"Bleckede, Töpferdamm",1,"Dahlenburg, Buendorf",1,07:17:00,617067.134,5894221.587
+S15_South,S15,"Bleckede, Töpferdamm",2,"Dahlenburg, Quickborn",0,07:17:00,617128.578,5894419.709
+S15_South,S15,"Bleckede, Töpferdamm",3,"Dahlem, Steinweg",3,07:20:00,616753.721,5896307.06
+S15_South,S15,"Bleckede, Töpferdamm",4,"Bleckede, Abzweig Köstorf",6,07:26:00,617247.08,5899639.243
+S15_South,S15,"Bleckede, Töpferdamm",5,"Barskamp, Hohe Luft",3,07:28:00,618588.595,5900624.389
+S15_South,S15,"Bleckede, Töpferdamm",6,"Barskamp, Markt",1,07:30:00,619034.125,5900916.319
+S15_South,S15,"Bleckede, Töpferdamm",7,"Alt Garge, Hauptstraße",5,07:34:00,620201.994,5903267.864
+S15_South,S15,"Bleckede, Töpferdamm",8,"Alt Garge, Turnhalle",0,07:35:00,619923.52,5903295.492
+S15_South,S15,"Bleckede, Töpferdamm",9,"Alt Garge, Bahnhof",0,07:35:00,619634.313,5903377.694
+S15_South,S15,"Bleckede, Töpferdamm",10,"Bleckede, Brennbusch",5,07:40:00,617006.804,5905047.379
+S15_South,S15,"Bleckede, Töpferdamm",11,"Bleckede, Barskamper Weg",1,07:41:00,616702.42,5905085.871
+S15_South,S15,"Bleckede, Töpferdamm",12,"Bleckede, Schiedenitzweg",1,07:42:00,616115.052,5904844.631
+S15_South,S15,"Bleckede, Töpferdamm",13,"Bleckede, Saatbau",1,07:43:00,616003.687,5905399.718
+S15_South,S15,"Bleckede, Töpferdamm",14,"Bleckede, Auf dem Kamp",1,07:43:00,615755.837,5905835.247
+S15_South,S15,"Bleckede, Töpferdamm",15,Bleckede (Fähre),2,07:45:00,615605.89,5906799.72
+S15_South,S15,"Bleckede, Töpferdamm",16,"Bleckede, Rathaus",1,07:46:00,615447.103,5906012.174
+S15_South,S15,"Bleckede, Töpferdamm",17,"Bleckede, Schulzentrum",1,07:47:00,615426.943,5905378.684
+S15_South,S15,"Bleckede, Töpferdamm",18,"Bleckede, Töpferdamm",2,07:50:00,614974.725,5906348.906
